@@ -29,6 +29,8 @@ const avatarUrl = (author) =>
 
 const FORUM_TYPES = new Set([15, 16]) // GUILD_FORUM, GUILD_MEDIA
 const POSTS_PER_FORUM = 24
+// Скільки відповідей поста класти в JSON (найновіші); решту — «відкрити в Discord»
+const REPLIES_PER_POST = 20
 
 const toMessage = (m, channelId) => ({
 	id: m.id,
@@ -74,8 +76,16 @@ const fetchForumPosts = async (channel) => {
 	const posts = []
 	for (const t of threads) {
 		let starter = null
+		let replies = []
 		try {
 			starter = await api(`/channels/${t.id}/messages/${t.id}`)
+			// Відповіді — усе після стартового повідомлення, у хронологічному порядку
+			const raw = await api(`/channels/${t.id}/messages?limit=${REPLIES_PER_POST}`)
+			replies = raw
+				.filter((m) => m.id !== t.id && (m.type === 0 || m.type === 19))
+				.filter((m) => m.content || m.attachments?.length || m.embeds?.length)
+				.reverse()
+				.map((m) => toMessage(m, t.id))
 		} catch (e) {
 			console.warn(`  пост «${t.name}»: без обкладинки (${e.message.split(String.fromCharCode(10))[0]})`)
 		}
@@ -87,6 +97,7 @@ const fetchForumPosts = async (channel) => {
 			created_at: t.thread_metadata?.create_timestamp ?? starter?.timestamp ?? null,
 			url: `https://discord.com/channels/${GUILD_ID}/${t.id}`,
 			starter: starter ? toMessage(starter, t.id) : null,
+			replies,
 		})
 	}
 	return posts
