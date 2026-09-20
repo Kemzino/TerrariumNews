@@ -1,0 +1,72 @@
+{
+	"generated_at": "2026-09-20T18:54:42.051197Z",
+	"channels": [
+		{
+			"id": "1256213928283734049",
+			"name": "новини",
+			"topic": null,
+			"url": "https://discord.com/channels/1114276509146959982/1256213928283734049",
+			"messages": [
+				{
+					"id": "1001",
+					"author": "Kemzino",
+					"avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
+					"content": "**Оновлення збірки 1.0.3** вийшло! Тепер лаунчер сам показує онлайн сервера.\nПовний список змін — https://github.com/Kemzino/TerrariumLauncher/releases",
+					"timestamp": "2026-09-20T18:19:42.051197Z",
+					"edited_timestamp": null,
+					"attachments": [],
+					"embeds": [],
+					"url": "https://discord.com/channels/1114276509146959982/1256213928283734049/1001"
+				},
+				{
+					"id": "1002",
+					"author": "Kemzino",
+					"avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+					"content": "Тестове повідомлення: *курсив*, `код`, ~~закреслено~~ і згадка <@123>",
+					"timestamp": "2026-09-20T15:54:42.051197Z",
+					"edited_timestamp": null,
+					"attachments": [],
+					"embeds": [],
+					"url": "https://discord.com/channels/1114276509146959982/1256213928283734049/1002"
+				},
+				{
+					"id": "1003",
+					"author": "Dovorol",
+					"avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
+					"content": "Івент у суботу о 19:00 — приходьте!",
+					"timestamp": "2026-09-19T17:54:42.051197Z",
+					"edited_timestamp": null,
+					"attachments": [],
+					"embeds": [],
+					"url": "https://discord.com/channels/1114276509146959982/1256213928283734049/1003"
+				}
+			]
+		},
+		{
+			"id": "1284175717491282002",
+			"name": "оголошення",
+			"topic": null,
+			"url": "https://discord.com/channels/1114276509146959982/1284175717491282002",
+			"messages": [
+				{
+					"id": "1004",
+					"author": "Kemzino",
+					"avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+					"content": "Сервер перезапуститься о 03:00 за Києвом.",
+					"timestamp": "2026-09-20T08:54:42.051197Z",
+					"edited_timestamp": null,
+					"attachments": [],
+					"embeds": [],
+					"url": "https://discord.com/channels/1114276509146959982/1256213928283734049/1004"
+				}
+			]
+		},
+		{
+			"id": "1398078937007132834",
+			"name": "зміни-збірки",
+			"topic": null,
+			"url": "https://discord.com/channels/1114276509146959982/1398078937007132834",
+			"messages": []
+		}
+	]
+}
