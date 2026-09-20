@@ -1,72 +1,299 @@
 {
-	"generated_at": "2026-09-20T18:54:42.051197Z",
+	"generated_at": "2026-09-20T19:21:42.713Z",
 	"channels": [
 		{
-			"id": "1256213928283734049",
-			"name": "новини",
+			"id": "1352317487194308741",
+			"name": "📰міська-газета",
 			"topic": null,
-			"url": "https://discord.com/channels/1114276509146959982/1256213928283734049",
+			"url": "https://discord.com/channels/1298214487156985866/1352317487194308741",
 			"messages": [
 				{
-					"id": "1001",
-					"author": "Kemzino",
-					"avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
-					"content": "**Оновлення збірки 1.0.3** вийшло! Тепер лаунчер сам показує онлайн сервера.\nПовний список змін — https://github.com/Kemzino/TerrariumLauncher/releases",
-					"timestamp": "2026-09-20T18:19:42.051197Z",
+					"id": "1533577926837276682",
+					"author": "+ 𝐈𝐡𝐨𝐫",
+					"avatar": "https://cdn.discordapp.com/avatars/401070655472271370/0195c164e7716c4301f7d94832768f80.png?size=64",
+					"content": "<@&1298234686371401808> на тестовий серввак було перенесено всю тереторію островів\n\nКоординати: 2682 -312",
+					"timestamp": "2026-08-02T20:51:10.258000+00:00",
 					"edited_timestamp": null,
-					"attachments": [],
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1533577926187155666/image.png?ex=6ab0effe&is=6aaf9e7e&hm=4edf6a0f6c86270d4683862a85259b2c306b2f78e5f3a35116363c26800d3111&",
+							"name": "image.png",
+							"content_type": "image/png",
+							"width": 1412,
+							"height": 1094
+						},
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1533577926547734609/image.png?ex=6ab0effe&is=6aaf9e7e&hm=efb7e00c9b4db8e36715cfe383c3a81921461bccdda7291d7ec706a4c75caf12&",
+							"name": "image.png",
+							"content_type": "image/png",
+							"width": 2224,
+							"height": 1093
+						}
+					],
 					"embeds": [],
-					"url": "https://discord.com/channels/1114276509146959982/1256213928283734049/1001"
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1533577926837276682"
 				},
 				{
-					"id": "1002",
-					"author": "Kemzino",
-					"avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
-					"content": "Тестове повідомлення: *курсив*, `код`, ~~закреслено~~ і згадка <@123>",
-					"timestamp": "2026-09-20T15:54:42.051197Z",
+					"id": "1518018189404012715",
+					"author": "+ 𝐈𝐡𝐨𝐫",
+					"avatar": "https://cdn.discordapp.com/avatars/401070655472271370/0195c164e7716c4301f7d94832768f80.png?size=64",
+					"content": "<@&1298234686371401808> Часовня та Будинок СБШ були перенесені на сервер",
+					"timestamp": "2026-06-20T22:22:19.768000+00:00",
 					"edited_timestamp": null,
-					"attachments": [],
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1518018188640784464/image.png?ex=6ab1055b&is=6aafb3db&hm=241ab6d8fa9856c79d3b1ebe7eb4b77bf7d234e0a3af26998f5feeb285f9b253&",
+							"name": "image.png",
+							"content_type": "image/png",
+							"width": 2461,
+							"height": 1213
+						},
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1518018189123125388/image.png?ex=6ab1055b&is=6aafb3db&hm=321306b0c6eff2d9458976e64c1702a4b72063f2ed21380dbf990a1bac2ce196&",
+							"name": "image.png",
+							"content_type": "image/png",
+							"width": 2559,
+							"height": 1282
+						}
+					],
 					"embeds": [],
-					"url": "https://discord.com/channels/1114276509146959982/1256213928283734049/1002"
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1518018189404012715"
 				},
 				{
-					"id": "1003",
-					"author": "Dovorol",
-					"avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
-					"content": "Івент у суботу о 19:00 — приходьте!",
-					"timestamp": "2026-09-19T17:54:42.051197Z",
+					"id": "1505035970116845669",
+					"author": "+ 𝐈𝐡𝐨𝐫",
+					"avatar": "https://cdn.discordapp.com/avatars/401070655472271370/0195c164e7716c4301f7d94832768f80.png?size=64",
+					"content": "",
+					"timestamp": "2026-05-16T02:35:37.492000+00:00",
 					"edited_timestamp": null,
-					"attachments": [],
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1505035970444005437/image.png?ex=6ab140b9&is=6aafef39&hm=26c704f29658a950a320fc0f5454f9c181df87feea0aeb95ac233e54db892ec1&",
+							"name": "image.png",
+							"content_type": "image/png",
+							"width": 1927,
+							"height": 1385
+						}
+					],
 					"embeds": [],
-					"url": "https://discord.com/channels/1114276509146959982/1256213928283734049/1003"
-				}
-			]
-		},
-		{
-			"id": "1284175717491282002",
-			"name": "оголошення",
-			"topic": null,
-			"url": "https://discord.com/channels/1114276509146959982/1284175717491282002",
-			"messages": [
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1505035970116845669"
+				},
 				{
-					"id": "1004",
-					"author": "Kemzino",
-					"avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-					"content": "Сервер перезапуститься о 03:00 за Києвом.",
-					"timestamp": "2026-09-20T08:54:42.051197Z",
+					"id": "1505025823009144893",
+					"author": "_stosik_",
+					"avatar": "https://cdn.discordapp.com/avatars/1280091322337857570/f26bd1067712bf57a37cbb0897eab24e.png?size=64",
+					"content": "Склад будується! \nресурси були зібрані та пушка була запущена , завтра постараюсь зайти та налаштувати його як най швидше",
+					"timestamp": "2026-05-16T01:55:18.233000+00:00",
 					"edited_timestamp": null,
 					"attachments": [],
 					"embeds": [],
-					"url": "https://discord.com/channels/1114276509146959982/1256213928283734049/1004"
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1505025823009144893"
+				},
+				{
+					"id": "1504993903806251161",
+					"author": "Delaik",
+					"avatar": "https://cdn.discordapp.com/avatars/795952533079064597/7cf3013e7fc0f2f00ec7841e5a87fe18.png?size=64",
+					"content": "<@&1298234686371401808> \n# Розпочинаєця будівниство складу!\nМи нарешті проєктувалии мега-потужний склад. 🥳 \nОскільки склад для нас зараз дуже важливий, просимо всіх бажаючих доєднатися до збору ресурсів. <:Democrasy:1420690543599681589> \nНарешті ми зможем з комфортом розвивати місто маючи великий уютний автомізований склад.",
+					"timestamp": "2026-05-15T23:48:28.102000+00:00",
+					"edited_timestamp": null,
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1504993904108371998/2026-05-16_02.44.23.png?ex=6ab1198c&is=6aafc80c&hm=db50e3477729e67f71719bbd69033d9f94eaea48c1938e8f4f7328d31c75663a&",
+							"name": "2026-05-16_02.44.23.png",
+							"content_type": "image/png",
+							"width": 1920,
+							"height": 1017
+						},
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1504993904498446386/2026-05-16_02.44.32.png?ex=6ab1198c&is=6aafc80c&hm=b5900e235b2badee73501627013726c1d5675d4494da9d9e4ccadcf61695c12c&",
+							"name": "2026-05-16_02.44.32.png",
+							"content_type": "image/png",
+							"width": 1920,
+							"height": 1017
+						},
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1504993904875798628/2026-05-16_01.06.56.png?ex=6ab1198c&is=6aafc80c&hm=8289181f89a2dcf2c6c353955be362e9e063906988462b82b23ab34d86c0d2b4&",
+							"name": "2026-05-16_01.06.56.png",
+							"content_type": "image/png",
+							"width": 1920,
+							"height": 1017
+						}
+					],
+					"embeds": [],
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1504993903806251161"
+				},
+				{
+					"id": "1445535282865897745",
+					"author": "_stosik_",
+					"avatar": "https://cdn.discordapp.com/avatars/1280091322337857570/f26bd1067712bf57a37cbb0897eab24e.png?size=64",
+					"content": "<@&1298234686371401808>  \n# тестовий сервер переїхав на нове IP:134.249.110.046:25565",
+					"timestamp": "2025-12-02T22:01:08.182000+00:00",
+					"edited_timestamp": null,
+					"attachments": [],
+					"embeds": [],
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1445535282865897745"
+				},
+				{
+					"id": "1444703611551617095",
+					"author": "Delaik",
+					"avatar": "https://cdn.discordapp.com/avatars/795952533079064597/7cf3013e7fc0f2f00ec7841e5a87fe18.png?size=64",
+					"content": "<@&1298234686371401808> Нагадую що сьогодні о 17 в нашому місті в домі культури пройде івент.\nПрошу всіх бажаючих прийти подивитися шоу<:bravo:1410990636282286152>",
+					"timestamp": "2025-11-30T14:56:22.289000+00:00",
+					"edited_timestamp": null,
+					"attachments": [],
+					"embeds": [],
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1444703611551617095"
+				},
+				{
+					"id": "1440483391156912331",
+					"author": "_stosik_",
+					"avatar": "https://cdn.discordapp.com/avatars/1280091322337857570/f26bd1067712bf57a37cbb0897eab24e.png?size=64",
+					"content": "<@&1298234686371401808>  \nЛюбі друзі на сайті з'явилось оголошення по зносу вуличних ліхтарів , потрібно всі ліхтарі що є в місті знести так як планується провести нові на газу , такщо хто бажає взятись за роботу та трошки заробити звератйтесь до мене)",
+					"timestamp": "2025-11-18T23:26:43.339000+00:00",
+					"edited_timestamp": null,
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1440483390867374110/image.png?ex=6ab11473&is=6aafc2f3&hm=aa6e7581a58cd568c38e1a963a1ec70ceb50832abe3e4b667bfa9ebf7a10bfde&",
+							"name": "image.png",
+							"content_type": "image/png",
+							"width": 489,
+							"height": 506
+						}
+					],
+					"embeds": [],
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1440483391156912331"
+				},
+				{
+					"id": "1440369864324812860",
+					"author": "Dark1_042",
+					"avatar": "https://cdn.discordapp.com/avatars/642321395589709824/2bca357bbef13cdbdfdb0bd6e02e1090.png?size=64",
+					"content": "<@&1298234686371401808> І найважливе про завод.\nЗавод дуже садить фпс(в мене 7). Так, що в кого мікрохвильовка, то не підходьте до нього.",
+					"timestamp": "2025-11-18T15:55:36.433000+00:00",
+					"edited_timestamp": "2025-11-19T07:20:04.286000+00:00",
+					"attachments": [],
+					"embeds": [],
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1440369864324812860"
+				},
+				{
+					"id": "1440367800416997588",
+					"author": "Dark1_042",
+					"avatar": "https://cdn.discordapp.com/avatars/642321395589709824/2bca357bbef13cdbdfdb0bd6e02e1090.png?size=64",
+					"content": "<@&1298234686371401808> Завод металів побудовано<:bravo:1410990636282286152>",
+					"timestamp": "2025-11-18T15:47:24.359000+00:00",
+					"edited_timestamp": null,
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1440367800119066786/2025-11-18_17.46.07.png?ex=6ab1518c&is=6ab0000c&hm=4c1d47207afc154aa50984cd0804ec6d08b31cff403e1701432d4f8bab507084&",
+							"name": "2025-11-18_17.46.07.png",
+							"content_type": "image/png",
+							"width": 1920,
+							"height": 1080
+						}
+					],
+					"embeds": [],
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1440367800416997588"
+				},
+				{
+					"id": "1440273021481914431",
+					"author": "Delaik",
+					"avatar": "https://cdn.discordapp.com/avatars/795952533079064597/7cf3013e7fc0f2f00ec7841e5a87fe18.png?size=64",
+					"content": "<@&1298234686371401808>",
+					"timestamp": "2025-11-18T09:30:47.300000+00:00",
+					"edited_timestamp": null,
+					"attachments": [],
+					"embeds": [],
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1440273021481914431"
+				},
+				{
+					"id": "1439990512911126549",
+					"author": "Mr.Pickles",
+					"avatar": "https://cdn.discordapp.com/avatars/574315179156832266/3434e186b15d1c908442b8224558c47e.png?size=64",
+					"content": "# 💠 БАНК «БІЛИЙ ТРЮФЕЛЬ»\n## Офіційне оголошення про запуск валюти та роботи сайту\nhttps://terrabank.space/\n\n## 🧾 Функції, які вже доступні\n- 🧱 **Створення замовлень** на ресурси  \n- 🧑‍🏭 **Пошук виконавців** робіт  \n- 📰 **Новини банку**  \n- 📉 **Актуальний курс** трюфеля  \n- 📊 **Статистика обігу**: в обігу / у банку / в резерві  \n\n## 🛠️ Розробка (незабаром доступно)\n- 🏦 **Онлайн-банківські рахунки**  \n- 🔄 **Перекази валюти**  \n- 🛡️ **Захищені аукціони**  \nМи активно працюємо над розширенням нашого сервісу.\n\n## ⚖️ Тимчасові обмеження (стабілізація ринку)\nДіють протягом найближчого тижня:\n- Купівля: **до 5 ₮**\n- Продаж: **до 10 ₮**\n> Обмеження будуть поступово зняті після стабілізації курсу.\n\n## 🎁 Одноразова видача валюти\nМешканці **Грибоїдок** можуть отримати **разову суму трюфелів**  \nу відділенні банку **за наявності паспорта**.\n⏳ Акція діє **до 23.11.2025 включно**\n\n## 📢 Розміщення оголошень на сайті\nБанк надає можливість розміщувати:\n- замовлення на ресурси  \n- пошук виконавців  \n\n💎 Оплата проводиться у відділенні банку в м. **Нові-Грибоїдки**  \n💸 **Акційна ціна до 23.11.2025 — 1 алмаз**\n\n### 💬 Дякуємо за довіру!  \nМи продовжимо вдосконалювати фінансову систему нашого світу.",
+					"timestamp": "2025-11-17T14:48:12.008000+00:00",
+					"edited_timestamp": null,
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1439990513175625870/image.png?ex=6ab143ac&is=6aaff22c&hm=dec064d4a3f07c311c6849fd23800fc90063f8722eae1bad70a62306324749f4&",
+							"name": "image.png",
+							"content_type": "image/png",
+							"width": 1280,
+							"height": 720
+						},
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1439990513586671686/image.png?ex=6ab143ac&is=6aaff22c&hm=bfc10c11cc59cc4ef4456cdf443f23b57585bdbebfce824e71bb72e7ffa9e245&",
+							"name": "image.png",
+							"content_type": "image/png",
+							"width": 1280,
+							"height": 720
+						}
+					],
+					"embeds": [],
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1439990512911126549"
+				},
+				{
+					"id": "1439397012067057664",
+					"author": "+ 𝐈𝐡𝐨𝐫",
+					"avatar": "https://cdn.discordapp.com/avatars/401070655472271370/0195c164e7716c4301f7d94832768f80.png?size=64",
+					"content": "16.11.1925\n\nВ грибоїдках було збудовано будинок культури",
+					"timestamp": "2025-11-15T23:29:50.380000+00:00",
+					"edited_timestamp": "2025-11-15T23:30:09.151000+00:00",
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1439397011823526109/image.png?ex=6ab1152e&is=6aafc3ae&hm=5bd883df8f72b00603d2bcf15607ee1732b0ee31f37139b51dc9d6844e17d80b&",
+							"name": "image.png",
+							"content_type": "image/png",
+							"width": 1919,
+							"height": 965
+						}
+					],
+					"embeds": [],
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1439397012067057664"
+				},
+				{
+					"id": "1438944447084761189",
+					"author": "Delaik",
+					"avatar": "https://cdn.discordapp.com/avatars/795952533079064597/7cf3013e7fc0f2f00ec7841e5a87fe18.png?size=64",
+					"content": "## <@&1298234686371401808> Ресурс Пак для міста <:bravo:1410990636282286152> \nВельми шановний Ігорь зробив нам крутий ресурс пак який додає текстури для паспорту, пропуску і некої _Банкноти_ 🤫 \n\nР.П:\nhttps://discord.com/channels/1298214487156985866/1317069487245230090/1438939295812550828\n\nДля роботи ресурс паку треба скачати Forge CIT\nhttps://www.curseforge.com/minecraft/mc-mods/forge-cit",
+					"timestamp": "2025-11-14T17:31:30.480000+00:00",
+					"edited_timestamp": "2025-11-14T17:34:09.102000+00:00",
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1438944447231430838/image.png?ex=6ab169f2&is=6ab01872&hm=5ec35d289b9adbe87d01bd7c4f2527d78b416832b89e56631307be181ee78fe2&",
+							"name": "image.png",
+							"content_type": "image/webp",
+							"width": 593,
+							"height": 236
+						},
+						{
+							"url": "https://cdn.discordapp.com/attachments/1352317487194308741/1438944447596597452/image.png?ex=6ab169f2&is=6ab01872&hm=4b5bb95b5a903f5359167d3a9cb0acf9655e5312e036c8c171197e626930398e&",
+							"name": "image.png",
+							"content_type": "image/webp",
+							"width": 550,
+							"height": 342
+						}
+					],
+					"embeds": [
+						{
+							"title": "Forge CIT",
+							"description": "Ports Optifine Custom Item Textures to Forge\n13.4M Downloads | Mods",
+							"url": "https://www.curseforge.com/minecraft/mc-mods/forge-cit",
+							"image": "https://media.forgecdn.net/avatars/thumbnails/876/364/256/256/638300003754206677.png"
+						}
+					],
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1438944447084761189"
+				},
+				{
+					"id": "1436768875051094137",
+					"author": "ES",
+					"avatar": "https://cdn.discordapp.com/avatars/1025412405573988434/16b55d39492ec457871c3d3741aef986.png?size=64",
+					"content": "<@639152947015712769>  в войс",
+					"timestamp": "2025-11-08T17:26:33.687000+00:00",
+					"edited_timestamp": null,
+					"attachments": [],
+					"embeds": [],
+					"url": "https://discord.com/channels/1298214487156985866/1352317487194308741/1436768875051094137"
 				}
 			]
-		},
-		{
-			"id": "1398078937007132834",
-			"name": "зміни-збірки",
-			"topic": null,
-			"url": "https://discord.com/channels/1114276509146959982/1398078937007132834",
-			"messages": []
 		}
 	]
 }
