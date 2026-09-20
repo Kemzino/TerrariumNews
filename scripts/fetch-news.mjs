@@ -5,7 +5,7 @@ import { writeFileSync, readFileSync, existsSync } from 'node:fs'
 const TOKEN = process.env.DISCORD_BOT_TOKEN
 const GUILD_ID = '1298214487156985866'
 // Порядок = порядок вкладок у лаунчері
-const CHANNEL_IDS = ['1352317487194308741']
+const CHANNEL_IDS = ['1352317487194308741', '1420690955467751475']
 const MESSAGES_PER_CHANNEL = 15
 const OUT = 'news.json'
 
