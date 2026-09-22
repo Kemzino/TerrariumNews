@@ -1,5 +1,5 @@
 {
-	"generated_at": "2026-09-22T16:28:58.096Z",
+	"generated_at": "2026-09-22T18:20:13.247Z",
 	"channels": [
 		{
 			"id": "1256213928283734049",
@@ -387,7 +387,7 @@
 					"edited_timestamp": null,
 					"attachments": [
 						{
-							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538245438484783194/image.png?ex=6ab36a73&is=6ab218f3&hm=9ce439a8059ea0b10306ba470ece01eee36b321690f10f48ab7fd137685a1206&",
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538245438484783194/image.png?ex=6ab41333&is=6ab2c1b3&hm=3801f3117982f130ee290c1bab1d4cd8626176a6dd4c417dcb706dc428063aee&",
 							"name": "image.png",
 							"content_type": "image/png",
 							"width": 3840,
@@ -683,7 +683,7 @@
 					"id": "1551975481279123536",
 					"title": "ОГОЛОШЕННЯ ПРО ВІЙНУ",
 					"tags": [],
-					"message_count": 78,
+					"message_count": 130,
 					"created_at": "2026-09-22T15:16:29.047000+00:00",
 					"url": "https://discord.com/channels/1114276509146959982/1551975481279123536",
 					"starter": {
@@ -705,365 +705,319 @@
 					},
 					"replies": [
 						{
-							"id": "1551986774182596840",
-							"author": "MegaBee007ua",
+							"id": "1552005754167234652",
+							"author": "Патріотік",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
-							"content": "Та вже одразу інвалід тоді",
-							"mentions": {
-								"users": {
-									"819311382871933009": "хайзенберг"
-								}
-							},
-							"timestamp": "2026-09-22T16:01:21.485000+00:00",
-							"edited_timestamp": null,
-							"attachments": [],
-							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551986774182596840"
-						},
-						{
-							"id": "1551986968315822104",
-							"author": "хайзенберг",
-							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/819311382871933009/268f50105a02a795f298fe7593591393.png?size=64",
-							"content": "так інвалід це ти вмене немає сколіозу та вавка десь верхій часті тіла та опухоль пердака",
-							"mentions": {
-								"users": {
-									"1394041919146819665": "MegaBee007ua"
-								}
-							},
-							"timestamp": "2026-09-22T16:02:07.770000+00:00",
-							"edited_timestamp": "2026-09-22T16:02:29.277000+00:00",
-							"attachments": [],
-							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551986968315822104"
-						},
-						{
-							"id": "1551987190077325332",
-							"author": "MegaBee007ua",
-							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
-							"content": "https://klipy.com/gifs/lie-detector-lying",
-							"mentions": {
-								"users": {
-									"819311382871933009": "хайзенберг"
-								}
-							},
-							"timestamp": "2026-09-22T16:03:00.642000+00:00",
-							"edited_timestamp": null,
-							"attachments": [],
-							"embeds": [
-								{
-									"title": "Lie Detector Needle Swings to Lie",
-									"description": null,
-									"url": "https://klipy.com/gifs/lie-detector-lying",
-									"image": "https://static.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/8c/ef/uTXSktUfMzSiz.webp"
-								}
-							],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551987190077325332"
-						},
-						{
-							"id": "1551987358067593247",
-							"author": "хайзенберг",
-							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/819311382871933009/268f50105a02a795f298fe7593591393.png?size=64",
-							"content": "да да ага сказочник",
-							"mentions": {
-								"users": {
-									"1394041919146819665": "MegaBee007ua"
-								}
-							},
-							"timestamp": "2026-09-22T16:03:40.694000+00:00",
-							"edited_timestamp": null,
-							"attachments": [],
-							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551987358067593247"
-						},
-						{
-							"id": "1551987563688886303",
-							"author": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘",
-							"author_color": "#ff8400",
-							"avatar": "https://cdn.discordapp.com/avatars/1040625898308767854/ee62ea249c142cfaa079d1dacf4bd406.png?size=64",
-							"content": "Давай без особистих образ, все норм, а і доречі в правилах немає такого пункту що дві сторони мають бути згодні на проведення війни, є пункт що обом сторонам має БУТИ ВІДОМО про війну та повідомити завчасно.",
-							"mentions": {
-								"users": {
-									"819311382871933009": "хайзенберг"
-								}
-							},
-							"timestamp": "2026-09-22T16:04:29.718000+00:00",
-							"edited_timestamp": null,
-							"attachments": [],
-							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551987563688886303"
-						},
-						{
-							"id": "1551987876265197713",
-							"author": "хайзенберг",
-							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/819311382871933009/268f50105a02a795f298fe7593591393.png?size=64",
-							"content": "во це умность",
+							"avatar": "https://cdn.discordapp.com/avatars/1083795128247926865/f3ca3c10e2bb684f3172277ad4199eb8.png?size=64",
+							"content": "так ти сам агресивний -_-",
 							"mentions": {
 								"users": {
 									"1040625898308767854": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘"
 								}
 							},
-							"timestamp": "2026-09-22T16:05:44.242000+00:00",
+							"timestamp": "2026-09-22T17:16:46.666000+00:00",
+							"edited_timestamp": "2026-09-22T17:17:13.206000+00:00",
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552005754167234652"
+						},
+						{
+							"id": "1552006042341081230",
+							"author": "хайзенберг",
+							"author_color": "#ffe1a4",
+							"avatar": "https://cdn.discordapp.com/avatars/819311382871933009/268f50105a02a795f298fe7593591393.png?size=64",
+							"content": "Патріотік ти конешно крутий але трошки не входь в розмову з мега піською",
+							"mentions": {
+								"users": {
+									"1083795128247926865": "Патріотік"
+								}
+							},
+							"timestamp": "2026-09-22T17:17:55.372000+00:00",
 							"edited_timestamp": null,
 							"attachments": [],
 							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551987876265197713"
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552006042341081230"
 						},
 						{
-							"id": "1551988292428234824",
+							"id": "1552006326144475230",
+							"author": "Патріотік",
+							"author_color": "#ffe1a4",
+							"avatar": "https://cdn.discordapp.com/avatars/1083795128247926865/f3ca3c10e2bb684f3172277ad4199eb8.png?size=64",
+							"content": "Мегабі, по правилам вони можуть тобі оголосити війну, але ти можеш просто забудувати острів складами, від чого вони його не зруйнують, або не заходити в прайм тайм (18 00-23 00)",
+							"timestamp": "2026-09-22T17:19:03.036000+00:00",
+							"edited_timestamp": null,
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552006326144475230"
+						},
+						{
+							"id": "1552006496282484811",
+							"author": "хайзенберг",
+							"author_color": "#ffe1a4",
+							"avatar": "https://cdn.discordapp.com/avatars/819311382871933009/268f50105a02a795f298fe7593591393.png?size=64",
+							"content": "Ооо ладно патріотік можеш входити",
+							"mentions": {
+								"users": {
+									"1083795128247926865": "Патріотік"
+								}
+							},
+							"timestamp": "2026-09-22T17:19:43.600000+00:00",
+							"edited_timestamp": null,
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552006496282484811"
+						},
+						{
+							"id": "1552006708031918172",
 							"author": "MegaBee007ua",
 							"author_color": "#ffe1a4",
 							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
-							"content": "За те, є два цікавих пункта про склад і про узгодження територій. Перше у мене є склад по якому ви не маєте право робити обстріл, а по друге зі мною ніхто не узгоджував воєні території",
+							"content": "Ну ок я тоді цей РП пост мімо вух пропущу бо ви агрисуєте і погрожуєте мені хоча у мне нема навіть працюйочої зброї а потім на вас тікет напишу",
 							"mentions": {
 								"users": {
 									"1040625898308767854": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘"
 								}
 							},
-							"timestamp": "2026-09-22T16:07:23.463000+00:00",
-							"edited_timestamp": null,
-							"attachments": [
-								{
-									"url": "https://cdn.discordapp.com/attachments/1551975481279123536/1551988291752960151/image.png?ex=6ab3f93b&is=6ab2a7bb&hm=af3a50b398187a8bd26c5f0c090038f605cf1bb0c609dc3d2e56175f04e760d9&",
-									"name": "image.png",
-									"content_type": "image/webp",
-									"width": 1280,
-									"height": 185
-								}
-							],
-							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551988292428234824"
-						},
-						{
-							"id": "1551988418299433032",
-							"author": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘",
-							"author_color": "#ff8400",
-							"avatar": "https://cdn.discordapp.com/avatars/1040625898308767854/ee62ea249c142cfaa079d1dacf4bd406.png?size=64",
-							"content": "Ми і не збиралися по складу бомбити, ми правила знаєм.",
-							"timestamp": "2026-09-22T16:07:53.473000+00:00",
+							"timestamp": "2026-09-22T17:20:34.085000+00:00",
 							"edited_timestamp": null,
 							"attachments": [],
 							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551988418299433032"
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552006708031918172"
 						},
 						{
-							"id": "1551988479221702716",
+							"id": "1552006709969424405",
+							"author": "Патріотік",
+							"author_color": "#ffe1a4",
+							"avatar": "https://cdn.discordapp.com/avatars/1083795128247926865/f3ca3c10e2bb684f3172277ad4199eb8.png?size=64",
+							"content": "розмова абщєствінна",
+							"mentions": {
+								"users": {
+									"819311382871933009": "хайзенберг"
+								}
+							},
+							"timestamp": "2026-09-22T17:20:34.547000+00:00",
+							"edited_timestamp": null,
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552006709969424405"
+						},
+						{
+							"id": "1552006840252899350",
+							"author": "хайзенберг",
+							"author_color": "#ffe1a4",
+							"avatar": "https://cdn.discordapp.com/avatars/819311382871933009/268f50105a02a795f298fe7593591393.png?size=64",
+							"content": "Мегабі поплачь",
+							"mentions": {
+								"users": {
+									"1394041919146819665": "MegaBee007ua"
+								}
+							},
+							"timestamp": "2026-09-22T17:21:05.609000+00:00",
+							"edited_timestamp": null,
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552006840252899350"
+						},
+						{
+							"id": "1552006843289706538",
+							"author": "Terrarium Bot",
+							"author_color": "#f1c40f",
+							"avatar": "https://cdn.discordapp.com/avatars/1412903589537517759/3616bffcdbb68010936d21bbab200c44.png?size=64",
+							"content": "Без негатівчика пж",
+							"mentions": {
+								"users": {
+									"819311382871933009": "хайзенберг"
+								}
+							},
+							"timestamp": "2026-09-22T17:21:06.333000+00:00",
+							"edited_timestamp": null,
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552006843289706538"
+						},
+						{
+							"id": "1552006983341838478",
+							"author": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘",
+							"author_color": "#ff8400",
+							"avatar": "https://cdn.discordapp.com/avatars/1040625898308767854/ee62ea249c142cfaa079d1dacf4bd406.png?size=64",
+							"content": "Ми тобі не погрожували і не агресували, це просто оголошення про війну, де ти там побачив агресію чи погрозу?",
+							"mentions": {
+								"users": {
+									"1394041919146819665": "MegaBee007ua"
+								}
+							},
+							"timestamp": "2026-09-22T17:21:39.724000+00:00",
+							"edited_timestamp": null,
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552006983341838478"
+						},
+						{
+							"id": "1552007673858363423",
+							"author": "MegaBee007ua",
+							"author_color": "#ffe1a4",
+							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
+							"content": "Блять а забрати мою техніку і заволодіти моїм островом це не погроза?",
+							"mentions": {
+								"users": {
+									"1040625898308767854": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘"
+								}
+							},
+							"timestamp": "2026-09-22T17:24:24.356000+00:00",
+							"edited_timestamp": null,
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552007673858363423"
+						},
+						{
+							"id": "1552007742691090503",
+							"author": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘",
+							"author_color": "#ff8400",
+							"avatar": "https://cdn.discordapp.com/avatars/1040625898308767854/ee62ea249c142cfaa079d1dacf4bd406.png?size=64",
+							"content": "Нє, це військова ціль.",
+							"timestamp": "2026-09-22T17:24:40.767000+00:00",
+							"edited_timestamp": null,
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552007742691090503"
+						},
+						{
+							"id": "1552008163321053305",
 							"author": "BRock",
 							"author_color": "#ff8400",
 							"avatar": "https://cdn.discordapp.com/avatars/1205601756839420015/0f4adb0e6f79dcc8754c9950804a4306.png?size=64",
-							"content": "https://klipy.com/gifs/fr-lie",
+							"content": "ні",
 							"mentions": {
 								"users": {
-									"1040625898308767854": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘"
+									"1412903589537517759": "Terrarium Bot"
 								}
 							},
-							"timestamp": "2026-09-22T16:08:07.998000+00:00",
+							"timestamp": "2026-09-22T17:26:21.053000+00:00",
 							"edited_timestamp": null,
 							"attachments": [],
-							"embeds": [
-								{
-									"title": "Fr Lie Gauge: Truth vs. Lie",
-									"description": null,
-									"url": "https://klipy.com/gifs/fr-lie",
-									"image": "https://static.klipy.com/ii/c44064a00e4b7451969381d90dea1769/00/68/prYCMXWJ.webp"
-								}
-							],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551988479221702716"
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552008163321053305"
 						},
 						{
-							"id": "1551988575833297077",
-							"author": "MegaBee007ua",
+							"id": "1552008302781534290",
+							"author": "хайзенберг",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
-							"content": "Як би знали то обговорили зі мною про території",
-							"mentions": {
-								"users": {
-									"1040625898308767854": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘"
-								}
-							},
-							"timestamp": "2026-09-22T16:08:31.032000+00:00",
-							"edited_timestamp": null,
-							"attachments": [],
-							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551988575833297077"
-						},
-						{
-							"id": "1551988804309745845",
-							"author": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘",
-							"author_color": "#ff8400",
-							"avatar": "https://cdn.discordapp.com/avatars/1040625898308767854/ee62ea249c142cfaa079d1dacf4bd406.png?size=64",
-							"content": "А яка може бути територія якщо в тебе онлі острів, чи ти пропонуєш по океану бити?",
-							"mentions": {
-								"users": {
-									"1394041919146819665": "MegaBee007ua"
-								}
-							},
-							"timestamp": "2026-09-22T16:09:25.505000+00:00",
-							"edited_timestamp": null,
-							"attachments": [],
-							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551988804309745845"
-						},
-						{
-							"id": "1551989116604911707",
-							"author": "MegaBee007ua",
-							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
-							"content": "Ну по всьому острову я вам бомбить не дозволю і це факт, і чого це ти кажеш тільки про мій острів? Чому не говориш про свій район? Про острів Паши?",
-							"mentions": {
-								"users": {
-									"1040625898308767854": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘"
-								}
-							},
-							"timestamp": "2026-09-22T16:10:39.962000+00:00",
-							"edited_timestamp": null,
-							"attachments": [],
-							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551989116604911707"
-						},
-						{
-							"id": "1551989394993578048",
-							"author": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘",
-							"author_color": "#ff8400",
-							"avatar": "https://cdn.discordapp.com/avatars/1040625898308767854/ee62ea249c142cfaa079d1dacf4bd406.png?size=64",
-							"content": "А це вже наклеп.",
+							"avatar": "https://cdn.discordapp.com/avatars/819311382871933009/268f50105a02a795f298fe7593591393.png?size=64",
+							"content": "О брок привіт як дела як життя",
 							"mentions": {
 								"users": {
 									"1205601756839420015": "BRock"
 								}
 							},
-							"timestamp": "2026-09-22T16:11:46.335000+00:00",
+							"timestamp": "2026-09-22T17:26:54.303000+00:00",
 							"edited_timestamp": null,
 							"attachments": [],
 							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551989394993578048"
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552008302781534290"
 						},
 						{
-							"id": "1551989814390300832",
+							"id": "1552008585674883163",
 							"author": "MegaBee007ua",
 							"author_color": "#ffe1a4",
 							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
-							"content": "Блять а нахуя гармату розбирати в той час як мене не було на сервері? <@1040625898308767854>  <@819311382871933009>  Якщо ви такі розумні то маєте знати що воєні дії не можна вести коли на сервері нема обох сторін",
+							"content": "Яка нафіг військова ціль? Війни навіть не буде доки ти зі мною умови не узгодиш. Я не буду розцінювати це як війну доки ми не поговорим про умови.",
 							"mentions": {
 								"users": {
-									"819311382871933009": "хайзенберг",
 									"1040625898308767854": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘"
 								}
 							},
-							"timestamp": "2026-09-22T16:13:26.327000+00:00",
+							"timestamp": "2026-09-22T17:28:01.750000+00:00",
 							"edited_timestamp": null,
-							"attachments": [
-								{
-									"url": "https://cdn.discordapp.com/attachments/1551975481279123536/1551989813308293120/image.png?ex=6ab3faa6&is=6ab2a926&hm=dde24ccd86ee95e9b94443f8a349429ae0ad9577854791c7a3defc2f0c4bfeea&",
-									"name": "image.png",
-									"content_type": "image/png",
-									"width": 3840,
-									"height": 2160
-								}
-							],
+							"attachments": [],
 							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551989814390300832"
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552008585674883163"
 						},
 						{
-							"id": "1551990044850659471",
+							"id": "1552008852809973792",
+							"author": "MegaBee007ua",
+							"author_color": "#ffe1a4",
+							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
+							"content": "Мене називаєте агресивним хоча навіть нічого у мене не запитали",
+							"timestamp": "2026-09-22T17:29:05.440000+00:00",
+							"edited_timestamp": null,
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552008852809973792"
+						},
+						{
+							"id": "1552009038722637935",
 							"author": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘",
 							"author_color": "#ff8400",
 							"avatar": "https://cdn.discordapp.com/avatars/1040625898308767854/ee62ea249c142cfaa079d1dacf4bd406.png?size=64",
-							"content": "Мене і не було на сервері, я сьогодні весь час був у механіка, ендерхайп може підтвердити.",
-							"timestamp": "2026-09-22T16:14:21.273000+00:00",
-							"edited_timestamp": null,
+							"content": "Які умови? Територію? Без б, я беру територію з горою, а папаш пусту частину острова там де ангар з літаками, не враховуючи будівлі, влаштує?",
+							"timestamp": "2026-09-22T17:29:49.765000+00:00",
+							"edited_timestamp": "2026-09-22T17:30:03.172000+00:00",
 							"attachments": [],
 							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551990044850659471"
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552009038722637935"
 						},
 						{
-							"id": "1551990076114993273",
+							"id": "1552009313319526421",
 							"author": "MegaBee007ua",
 							"author_color": "#ffe1a4",
 							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
-							"content": "Ще й димові фугаси ставить коли мене не було <@819311382871933009>",
-							"mentions": {
-								"users": {
-									"819311382871933009": "хайзенберг"
-								}
-							},
-							"timestamp": "2026-09-22T16:14:28.727000+00:00",
-							"edited_timestamp": "2026-09-22T16:14:41.673000+00:00",
-							"attachments": [],
-							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551990076114993273"
-						},
-						{
-							"id": "1551990439903756452",
-							"author": "MegaBee007ua",
-							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
-							"content": "Мені здається що ти правила не до кінця знаєш а паша взагалі не знає",
+							"content": "Хай бере усю територію",
 							"mentions": {
 								"users": {
 									"1040625898308767854": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘"
 								}
 							},
-							"timestamp": "2026-09-22T16:15:55.461000+00:00",
+							"timestamp": "2026-09-22T17:30:55.234000+00:00",
 							"edited_timestamp": null,
 							"attachments": [],
 							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551990439903756452"
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552009313319526421"
 						},
 						{
-							"id": "1551993056494878772",
-							"author": "хайзенберг",
-							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/819311382871933009/268f50105a02a795f298fe7593591393.png?size=64",
-							"content": "Я нічого не робив мегабі я сьогодні зайшов тільки щоб забрати гелік",
+							"id": "1552009469624582175",
+							"author": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘",
+							"author_color": "#ff8400",
+							"avatar": "https://cdn.discordapp.com/avatars/1040625898308767854/ee62ea249c142cfaa079d1dacf4bd406.png?size=64",
+							"content": "А це вже йому вирішувати, ти попросив території обрати, будь ласка, все чи ще щось?",
 							"mentions": {
 								"users": {
 									"1394041919146819665": "MegaBee007ua"
 								}
 							},
-							"timestamp": "2026-09-22T16:26:19.305000+00:00",
-							"edited_timestamp": "2026-09-22T16:26:35.555000+00:00",
+							"timestamp": "2026-09-22T17:31:32.500000+00:00",
+							"edited_timestamp": null,
 							"attachments": [],
 							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551993056494878772"
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552009469624582175"
 						},
 						{
-							"id": "1551993205313118259",
+							"id": "1552010571518574775",
 							"author": "MegaBee007ua",
 							"author_color": "#ffe1a4",
 							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
-							"content": "Вірю",
+							"content": "Якщо він бере половину острова без будівель то я даю малу частину бо у мене на острові мирні будівлі",
 							"mentions": {
 								"users": {
-									"819311382871933009": "хайзенберг"
+									"1040625898308767854": "𝕯𝖆𝖓𝖎𝖑𝖎𝖓𝖌𝖚𝖘"
 								}
 							},
-							"timestamp": "2026-09-22T16:26:54.786000+00:00",
+							"timestamp": "2026-09-22T17:35:55.212000+00:00",
 							"edited_timestamp": null,
 							"attachments": [],
 							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551993205313118259"
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552010571518574775"
 						},
 						{
-							"id": "1551993337370906685",
-							"author": "хайзенберг",
+							"id": "1552012668360204301",
+							"author": "MegaBee007ua",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/819311382871933009/268f50105a02a795f298fe7593591393.png?size=64",
-							"content": "Ну як хочеш, я то нічого не робив",
-							"mentions": {
-								"users": {
-									"1394041919146819665": "MegaBee007ua"
-								}
-							},
-							"timestamp": "2026-09-22T16:27:26.271000+00:00",
+							"avatar": "https://cdn.discordapp.com/avatars/1394041919146819665/0d055577ad163af7f6affa6c1275481e.png?size=64",
+							"content": "Також війну почнем на вихідних",
+							"timestamp": "2026-09-22T17:44:15.138000+00:00",
 							"edited_timestamp": null,
 							"attachments": [],
 							"embeds": [],
-							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1551993337370906685"
+							"url": "https://discord.com/channels/1114276509146959982/1551975481279123536/1552012668360204301"
 						}
 					]
 				},
@@ -1084,7 +1038,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1549831925462605925/1549831925848608818/image-6.png?ex=6ab36135&is=6ab20fb5&hm=49eefc95c8cd05f12b2923bda1f6c6d43b6c35cc7bba00a302b1ec380bfbe2f5&",
+								"url": "https://cdn.discordapp.com/attachments/1549831925462605925/1549831925848608818/image-6.png?ex=6ab409f5&is=6ab2b875&hm=4c2ae0e4048ba4784c349e19375d8c87a349b4a6605369c0f26e0d58ed26fc17&",
 								"name": "image-6.png",
 								"content_type": "image/png",
 								"width": 1120,
@@ -2797,7 +2751,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541125828581007421/image.png?ex=6ab35906&is=6ab20786&hm=4b7cec3b7745928f15a7dcbabfbb21cc610c6859f73ffc0908b6ed1b9e6bade7&",
+									"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541125828581007421/image.png?ex=6ab401c6&is=6ab2b046&hm=f8d44cb5b5d46130d0a2e9117085d4ed62d76a56841155b64ab1fc1a3b791792&",
 									"name": "image.png",
 									"content_type": "image/webp",
 									"width": 494,
@@ -3384,7 +3338,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540785910092922920/1540785910306574356/2026-08-22_210314.png?ex=6ab36df3&is=6ab21c73&hm=94e0cff32290354334b2b8bee81e08f6c406f09f73fdbe02d88c2936a98be016&",
+								"url": "https://cdn.discordapp.com/attachments/1540785910092922920/1540785910306574356/2026-08-22_210314.png?ex=6ab416b3&is=6ab2c533&hm=f84c13713409a3cc8438fbe676678132189b2a4683e4399d9822f11d015ccefb&",
 								"name": "2026-08-22_210314.png",
 								"content_type": "image/png",
 								"width": 1469,
@@ -3422,7 +3376,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1540785910092922920/1541142343376314558/image.png?ex=6ab36867&is=6ab216e7&hm=df3fcc2cb961b32ba71232e0f1da7132b439eb0bb66d5d785ddcd712c9f205f2&",
+									"url": "https://cdn.discordapp.com/attachments/1540785910092922920/1541142343376314558/image.png?ex=6ab41127&is=6ab2bfa7&hm=6e66cab5abe0e59049472339266bdeca6349075aa7b8ea27144634936222ba01&",
 									"name": "image.png",
 									"content_type": "image/png",
 									"width": 1633,
@@ -3493,7 +3447,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540411403633033317/1540411404371234927/2026-08-21_175508.png?ex=6ab362aa&is=6ab2112a&hm=6657b53f63371536ea94d60be0d577987bc0cefc868fae41f5ec390a4c79b952&",
+								"url": "https://cdn.discordapp.com/attachments/1540411403633033317/1540411404371234927/2026-08-21_175508.png?ex=6ab40b6a&is=6ab2b9ea&hm=c961d99e8952557b7c56d82ec437dcee9c7ff8b957f426497f57072a1521c37e&",
 								"name": "2026-08-21_175508.png",
 								"content_type": "image/png",
 								"width": 1113,
