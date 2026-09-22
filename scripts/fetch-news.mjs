@@ -33,11 +33,82 @@ const POSTS_PER_FORUM = 24
 // Скільки відповідей поста класти в JSON (найновіші); решту — «відкрити в Discord»
 const REPLIES_PER_POST = 20
 
-const toMessage = (m, channelId) => ({
+// Ролі гільдії (назва, колір, позиція) — для кольору ніка, як у Discord, і для
+// згадок <@&id> у тексті. Учасники — за потреби, з кешем на прогін: REST не
+// віддає member разом із повідомленням, тож нік і ролі беремо окремим запитом.
+const roles = new Map()
+const members = new Map()
+const channelNames = new Map()
+const hexColor = (color) => (color ? `#${color.toString(16).padStart(6, '0')}` : null)
+
+const loadRoles = async () => {
+	for (const r of await api(`/guilds/${GUILD_ID}/roles`)) {
+		roles.set(r.id, { name: r.name, color: hexColor(r.color), position: r.position })
+	}
+}
+
+const getMember = async (userId) => {
+	if (members.has(userId)) return members.get(userId)
+	let info = null
+	try {
+		const d = await api(`/guilds/${GUILD_ID}/members/${userId}`)
+		// Колір ніка — найвища роль із власним кольором
+		const top = (d.roles ?? [])
+			.map((id) => roles.get(id))
+			.filter((r) => r?.color)
+			.sort((a, b) => b.position - a.position)[0]
+		info = { nick: d.nick ?? null, color: top?.color ?? null }
+	} catch {
+		// Вийшов із сервера — без ніка й кольору
+	}
+	members.set(userId, info)
+	return info
+}
+
+const getChannelName = async (id) => {
+	if (channelNames.has(id)) return channelNames.get(id)
+	let name = null
+	try {
+		name = (await api(`/channels/${id}`)).name
+	} catch {
+		// Канал бот не бачить
+	}
+	channelNames.set(id, name)
+	return name
+}
+
+const displayName = (user, member) => member?.nick || user.global_name || user.username
+
+// Що потрібно лаунчеру, щоб показати згадки в тексті словами, а не id
+const mentionsOf = async (m) => {
+	const users = {}
+	for (const u of m.mentions ?? []) {
+		users[u.id] = displayName(u, await getMember(u.id))
+	}
+	const mentionedRoles = {}
+	for (const id of m.mention_roles ?? []) {
+		const r = roles.get(id)
+		if (r) mentionedRoles[id] = { name: r.name, color: r.color }
+	}
+	const channels = {}
+	for (const [, id] of (m.content ?? '').matchAll(/<#(\d+)>/g)) {
+		const name = await getChannelName(id)
+		if (name) channels[id] = name
+	}
+	const out = {}
+	if (Object.keys(users).length) out.users = users
+	if (Object.keys(mentionedRoles).length) out.roles = mentionedRoles
+	if (Object.keys(channels).length) out.channels = channels
+	return Object.keys(out).length ? out : undefined
+}
+
+const toMessage = async (m, channelId) => ({
 	id: m.id,
-	author: m.member?.nick || m.author.global_name || m.author.username,
+	author: displayName(m.author, m.member ?? (await getMember(m.author.id))),
+	author_color: (await getMember(m.author.id))?.color ?? null,
 	avatar: avatarUrl(m.author),
 	content: m.content ?? '',
+	mentions: await mentionsOf(m),
 	timestamp: m.timestamp,
 	edited_timestamp: m.edited_timestamp ?? null,
 	attachments: (m.attachments ?? []).map((a) => ({
@@ -82,11 +153,12 @@ const fetchForumPosts = async (channel) => {
 			starter = await api(`/channels/${t.id}/messages/${t.id}`)
 			// Відповіді — усе після стартового повідомлення, у хронологічному порядку
 			const raw = await api(`/channels/${t.id}/messages?limit=${REPLIES_PER_POST}`)
-			replies = raw
+			const kept = raw
 				.filter((m) => m.id !== t.id && (m.type === 0 || m.type === 19))
 				.filter((m) => m.content || m.attachments?.length || m.embeds?.length)
 				.reverse()
-				.map((m) => toMessage(m, t.id))
+			replies = []
+			for (const m of kept) replies.push(await toMessage(m, t.id))
 		} catch (e) {
 			console.warn(`  пост «${t.name}»: без обкладинки (${e.message.split(String.fromCharCode(10))[0]})`)
 		}
@@ -97,7 +169,7 @@ const fetchForumPosts = async (channel) => {
 			message_count: t.message_count ?? 0,
 			created_at: t.thread_metadata?.create_timestamp ?? starter?.timestamp ?? null,
 			url: `https://discord.com/channels/${GUILD_ID}/${t.id}`,
-			starter: starter ? toMessage(starter, t.id) : null,
+			starter: starter ? await toMessage(starter, t.id) : null,
 			replies,
 		})
 	}
@@ -106,6 +178,8 @@ const fetchForumPosts = async (channel) => {
 
 // Назва без «дерева» з псевдографіки на початку (┌🔆новини-create → 🔆новини-create)
 const cleanName = (name) => name.replace(/^[─-╿\s]+/u, '')
+
+await loadRoles()
 
 const channels = []
 for (const id of CHANNEL_IDS) {
@@ -126,11 +200,12 @@ for (const id of CHANNEL_IDS) {
 		continue
 	}
 	const raw = await api(`/channels/${id}/messages?limit=${MESSAGES_PER_CHANNEL}`)
-	const messages = raw
+	const kept = raw
 		// Системні повідомлення (pin, join) і порожні без вкладень/ембедів пропускаємо
 		.filter((m) => m.type === 0 || m.type === 19)
 		.filter((m) => m.content || m.attachments?.length || m.embeds?.length)
-		.map((m) => toMessage(m, id))
+	const messages = []
+	for (const m of kept) messages.push(await toMessage(m, id))
 	channels.push({
 		id,
 		name: channel.name,
