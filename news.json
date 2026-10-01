@@ -1,5 +1,5 @@
 {
-	"generated_at": "2026-10-01T07:44:03.699Z",
+	"generated_at": "2026-10-01T14:47:24.947Z",
 	"channels": [
 		{
 			"id": "1256213928283734049",
@@ -507,7 +507,7 @@
 					"edited_timestamp": "2026-08-01T09:13:51.447000+00:00",
 					"attachments": [
 						{
-							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1532866655007281352/image-1-1.png?ex=6abed451&is=6abd82d1&hm=f85f02f0181186cd0999354dc3d2129c186c506278bbd945cbf08a2a11b42dc8&",
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1532866655007281352/image-1-1.png?ex=6abf7d11&is=6abe2b91&hm=33d8e5f69dd908869f42e38256f6cd564ac9962cedd68066cb55767798dbcbed&",
 							"name": "image-1-1.png",
 							"content_type": "image/png",
 							"width": 1920,
@@ -539,8 +539,8 @@
 				},
 				{
 					"id": "1530559050901880882",
-					"author": "raflesssia",
-					"author_color": null,
+					"author": "belfegormel",
+					"author_color": "#ff8400",
 					"avatar": "https://cdn.discordapp.com/avatars/483200783404367882/0e4391055cfb6a4841fe8cc430bda0dc.png?size=64",
 					"content": "<@&1181709312817631263> <@&1181709309860663360> \n\nЧерез брак людей ми переносимо івент на 18:00, сподіваюсь буде більше людей!",
 					"mentions": {
@@ -563,8 +563,8 @@
 				},
 				{
 					"id": "1530224356079435867",
-					"author": "raflesssia",
-					"author_color": null,
+					"author": "belfegormel",
+					"author_color": "#ff8400",
 					"avatar": "https://cdn.discordapp.com/avatars/483200783404367882/0e4391055cfb6a4841fe8cc430bda0dc.png?size=64",
 					"content": "<@&1181709309860663360> <@&1181709312817631263> \n\n# Повторне проведення івенту AMONG US! #\n\nЗапрошуєм бажаючих пограти знов, в цю суботу (25.07)! ||(хто не в чс)|| \n**Івент відбудеться о 16:00**, ми заберемо всіх на ~~космічному кораблі~~ дроні до місця проведення івенту. (Хто вже був то можете самі приходити, але прохання паркуватися за рендером, щоб не лагало)\n\n**хто планує бути на івенті будь ласка поставте смайлик зірочки**",
 					"mentions": {
@@ -630,8 +630,8 @@
 				},
 				{
 					"id": "1528470003098062859",
-					"author": "raflesssia",
-					"author_color": null,
+					"author": "belfegormel",
+					"author_color": "#ff8400",
 					"avatar": "https://cdn.discordapp.com/avatars/483200783404367882/0e4391055cfb6a4841fe8cc430bda0dc.png?size=64",
 					"content": "# Всім дякую за участь, івент будемо проводити ще! #",
 					"timestamp": "2026-07-19T18:34:06.338000+00:00",
@@ -650,8 +650,8 @@
 				},
 				{
 					"id": "1528409996147036351",
-					"author": "raflesssia",
-					"author_color": null,
+					"author": "belfegormel",
+					"author_color": "#ff8400",
 					"avatar": "https://cdn.discordapp.com/avatars/483200783404367882/0e4391055cfb6a4841fe8cc430bda0dc.png?size=64",
 					"content": "<@&1181709312817631263>  \nІвент почнеться через 30 хв!\nНагадую про те, що треба буде зібратися на спавні, щоб ми могли вас забрати",
 					"mentions": {
@@ -688,7 +688,7 @@
 						"Новини",
 						"Дипломатія"
 					],
-					"message_count": 2,
+					"message_count": 5,
 					"created_at": "2026-10-01T05:43:06.458000+00:00",
 					"url": "https://discord.com/channels/1114276509146959982/1555092677153005588",
 					"starter": {
@@ -742,6 +742,60 @@
 								}
 							],
 							"url": "https://discord.com/channels/1114276509146959982/1555092677153005588/1555095897883287582"
+						},
+						{
+							"id": "1555170719749382205",
+							"author": "VOVERISOM",
+							"author_color": "#ffe1a4",
+							"avatar": "https://cdn.discordapp.com/avatars/1299832249939918899/e316d8af0bfa1c8b9cadd9cf90a5b351.png?size=64",
+							"content": "Ви і так не були но лодно",
+							"mentions": {
+								"users": {
+									"980097728828817438": "EnderHipe"
+								}
+							},
+							"timestamp": "2026-10-01T10:53:13.263000+00:00",
+							"edited_timestamp": null,
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1555092677153005588/1555170719749382205"
+						},
+						{
+							"id": "1555177119477141574",
+							"author": "Aksolotel",
+							"author_color": "#ffe1a4",
+							"avatar": "https://cdn.discordapp.com/avatars/1206182656937558016/296c2246ffb71f167e18b0d0d84bb0cc.png?size=64",
+							"content": "Не обіжай їх ще обідяться",
+							"mentions": {
+								"users": {
+									"1299832249939918899": "VOVERISOM"
+								}
+							},
+							"timestamp": "2026-10-01T11:18:39.077000+00:00",
+							"edited_timestamp": null,
+							"attachments": [],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1555092677153005588/1555177119477141574"
+						},
+						{
+							"id": "1555180342120415304",
+							"author": "VOVERISOM",
+							"author_color": "#ffe1a4",
+							"avatar": "https://cdn.discordapp.com/avatars/1299832249939918899/e316d8af0bfa1c8b9cadd9cf90a5b351.png?size=64",
+							"content": "",
+							"timestamp": "2026-10-01T11:31:27.415000+00:00",
+							"edited_timestamp": null,
+							"attachments": [
+								{
+									"url": "https://cdn.discordapp.com/attachments/1555092677153005588/1555180341231230996/ce12d93fc8369108aa2e0c45cb5b14e7.webp?backend=b2&ex=6abf960f&is=6abe448f&hm=e381091271d76fa805eae310634955d41cca381062609cc60c142cbe61df4b27&",
+									"name": "ce12d93fc8369108aa2e0c45cb5b14e7.webp",
+									"content_type": "image/webp",
+									"width": 680,
+									"height": 383
+								}
+							],
+							"embeds": [],
+							"url": "https://discord.com/channels/1114276509146959982/1555092677153005588/1555180342120415304"
 						}
 					]
 				},
@@ -971,7 +1025,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1553468856259973120/1554780468887687178/attachment.gif?backend=b2&ex=6abeca66&is=6abd78e6&hm=2050b5632668b2806fa0f5e4bddbe5eec1d49a23e6d3a9d418d23bf1a953cd4d&",
+									"url": "https://cdn.discordapp.com/attachments/1553468856259973120/1554780468887687178/attachment.gif?backend=b2&ex=6abf7326&is=6abe21a6&hm=c7fe3b15a8141732962666d61714959e430e8366f8191222fc81fd68b88936ab&",
 									"name": "attachment.gif",
 									"content_type": "image/gif",
 									"width": 734,
@@ -1202,7 +1256,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1551975481279123536/1552235494929080381/oURBjeDGgtqbVSvsnkfAAwP6OCQEICZknQECDQ.mp4?ex=6abec2b5&is=6abd7135&hm=bf7d51e07cfe79dca9ca4918cabe57a4b8b1d577e343fdabe81289501fb7e033&",
+									"url": "https://cdn.discordapp.com/attachments/1551975481279123536/1552235494929080381/oURBjeDGgtqbVSvsnkfAAwP6OCQEICZknQECDQ.mp4?ex=6abf6b75&is=6abe19f5&hm=46a4f82a9f0a0dbb7361b340190d72837072f936a5ef283943746d5ed40e2a75&",
 									"name": "oURBjeDGgtqbVSvsnkfAAwP6OCQEICZknQECDQ.mp4",
 									"content_type": "video/mp4",
 									"width": 480,
@@ -1462,7 +1516,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1545530126626856980/1545530127042220103/image.png?ex=6abec198&is=6abd7018&hm=92aba196d4c98ba39d5060a2c653172eeab3dc48163ea5dd4188520827b05b35&",
+								"url": "https://cdn.discordapp.com/attachments/1545530126626856980/1545530127042220103/image.png?ex=6abf6a58&is=6abe18d8&hm=b38acba29861f49e6d0a0c1f37b242a0975064144fc81b0f43e5d9dda6648f7d&",
 								"name": "image.png",
 								"content_type": "image/png",
 								"width": 1536,
@@ -1625,7 +1679,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1544788775899631687/1547165806742343700/image0.png?ex=6abec631&is=6abd74b1&hm=8736c70e3bfffbfd24d3dd5353f66dd7e48ca5cb213689a2afe0809599f9b88e&",
+									"url": "https://cdn.discordapp.com/attachments/1544788775899631687/1547165806742343700/image0.png?ex=6abf6ef1&is=6abe1d71&hm=642bdec33ca9829a2bf4223fdf178f100e9899db2336105ed447f801cb6c1182&",
 									"name": "image0.png",
 									"content_type": "image/png",
 									"width": 388,
@@ -1685,14 +1739,14 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1542987058396663839/1542987058824347778/2026-08-28_223405.png?ex=6abebbae&is=6abd6a2e&hm=ea91a56a5d603e841add3dcc7a5d5af2f226bfba7cfb8a57118c7982813a4e4e&",
+								"url": "https://cdn.discordapp.com/attachments/1542987058396663839/1542987058824347778/2026-08-28_223405.png?ex=6abf646e&is=6abe12ee&hm=a9a2d343fca3b729f8a87d455b602bb4b6d5f1a25bcfbfe99f18cf13a99ba980&",
 								"name": "2026-08-28_223405.png",
 								"content_type": "image/png",
 								"width": 1805,
 								"height": 930
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1542987058396663839/1542987059231334571/2026-08-28_224919.png?ex=6abebbae&is=6abd6a2e&hm=aa2dea96b78cdc20d3a435c4d41089a919cbd9112943b96de65839a502989e22&",
+								"url": "https://cdn.discordapp.com/attachments/1542987058396663839/1542987059231334571/2026-08-28_224919.png?ex=6abf646e&is=6abe12ee&hm=8cbe6c64e237c20176c52a7e53f856476457b6398f7693ab6e9e2937d8926f9d&",
 								"name": "2026-08-28_224919.png",
 								"content_type": "image/png",
 								"width": 1743,
@@ -1739,8 +1793,8 @@
 						},
 						{
 							"id": "1543046484331597885",
-							"author": "raflesssia",
-							"author_color": null,
+							"author": "belfegormel",
+							"author_color": "#ff8400",
 							"avatar": "https://cdn.discordapp.com/avatars/483200783404367882/0e4391055cfb6a4841fe8cc430bda0dc.png?size=64",
 							"content": "В тебе незакритий гештальт на вибачення? (Без негативу)",
 							"mentions": {
@@ -2039,7 +2093,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1542282867701325924/1542282868175142992/photo_2026-08-26_18-19-56.jpg?ex=6abeceda&is=6abd7d5a&hm=9ba0356236c715b2144e7b99c6c435343efd36b1f185e9b0f2f335d94b215f1e&",
+								"url": "https://cdn.discordapp.com/attachments/1542282867701325924/1542282868175142992/photo_2026-08-26_18-19-56.jpg?ex=6abf779a&is=6abe261a&hm=cf007930a59cc7fa3b11434d9b52fea87fc25dd9319e71d5dc6d87d5fe5e64a4&",
 								"name": "photo_2026-08-26_18-19-56.jpg",
 								"content_type": "image/jpeg",
 								"width": 1026,
@@ -2640,7 +2694,7 @@
 						"edited_timestamp": "2026-08-25T12:43:29.245000+00:00",
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541753874174451763/1541753874560454707/c933b662-5f25-4e76-b416-3fa7cf8eba72.png?ex=6abedc70&is=6abd8af0&hm=f23cd7c640c5239112013f5095a5d87690aa8a88e2899620053af70b438c6cb3&",
+								"url": "https://cdn.discordapp.com/attachments/1541753874174451763/1541753874560454707/c933b662-5f25-4e76-b416-3fa7cf8eba72.png?ex=6abf8530&is=6abe33b0&hm=c928fc0cc9f712a1a837da91c9001f3cbc754f78d4616cb2805f380d83723b4d&",
 								"name": "c933b662-5f25-4e76-b416-3fa7cf8eba72.png",
 								"content_type": "image/png",
 								"width": 1536,
@@ -3046,7 +3100,7 @@
 									"title": null,
 									"description": null,
 									"url": "https://cdn.discordapp.com/attachments/1499142718407053486/1529244227383332864/togif.gif",
-									"image": "https://cdn.discordapp.com/attachments/1499142718407053486/1529244227383332864/togif.gif?ex=6abed5ab&is=6abd842b&hm=bc7e391d3d0cd499bb7663021dd14b860b593eb033d02aa0cccb33515f48f3da&"
+									"image": "https://cdn.discordapp.com/attachments/1499142718407053486/1529244227383332864/togif.gif?ex=6abf7e6b&is=6abe2ceb&hm=fd1cc3aa36ffdaadb33f623cddcd36ff27936406e58888e761ac636a0967a02a&"
 								}
 							],
 							"url": "https://discord.com/channels/1114276509146959982/1541110288118448258/1541125698058461325"
@@ -3384,14 +3438,14 @@
 						"edited_timestamp": "2026-08-23T12:06:56.623000+00:00",
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055872933957713/c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg?ex=6abef55f&is=6abda3df&hm=48fe27cd7ede1cdf585131b63e3cd47b13f7798aec9c5392acbb63dc92336aec&",
+								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055872933957713/c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg?ex=6abf9e1f&is=6abe4c9f&hm=6bc32bf5b7d3e650aed22e1820d0a9a105579669008b7f270be1ecbf73feab90&",
 								"name": "c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg",
 								"content_type": "image/jpeg",
 								"width": 1536,
 								"height": 1024
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055873785536614/2026-08-23_145122.jpg?ex=6abef55f&is=6abda3df&hm=8ccfa80096a291e8236685f436c099287c6e91408f09a2a370b6066eaed3350d&",
+								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055873785536614/2026-08-23_145122.jpg?ex=6abf9e1f&is=6abe4c9f&hm=b4efd8928ceda9ab030bc5a8a2bf2fd4b5a9892327718710382aed9cf373cf67&",
 								"name": "2026-08-23_145122.jpg",
 								"content_type": "image/jpeg",
 								"width": 1920,
@@ -3442,7 +3496,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541035491590144000/1541035491770630144/image.png?ex=6abee264&is=6abd90e4&hm=64e49ce01ec0a1b032e6386bdd435a0a699559d3c9374a3103f27c45b53b6839&",
+								"url": "https://cdn.discordapp.com/attachments/1541035491590144000/1541035491770630144/image.png?ex=6abf8b24&is=6abe39a4&hm=058598a38cb214187346c23df85a4f3dc483e436bdfdf575e5b61b3d914de2c0&",
 								"name": "image.png",
 								"content_type": "image/webp",
 								"width": 1001,
@@ -3517,7 +3571,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540811047773020242/1540811049102606346/2026-08-22_202633.png?ex=6abeba1c&is=6abd689c&hm=f66a0879b8780c99a386399eaa959dcea03c18c4a772cdafed77d13784ad51b4&",
+								"url": "https://cdn.discordapp.com/attachments/1540811047773020242/1540811049102606346/2026-08-22_202633.png?ex=6abf62dc&is=6abe115c&hm=b6f7f7035324d3141720b2bd201b0ba87b8f32f9faf5d9ab3d4f66afdee881fb&",
 								"name": "2026-08-22_202633.png",
 								"content_type": "image/png",
 								"width": 1510,
@@ -3723,7 +3777,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540698938355617893/1540698939010056285/2026-08-22_152000.png?ex=6abefa73&is=6abda8f3&hm=a446931ac79f128860e8d83031e95bd2202a2c6c13a8b3105dd7e37f3d28c6ca&",
+								"url": "https://cdn.discordapp.com/attachments/1540698938355617893/1540698939010056285/2026-08-22_152000.png?ex=6abfa333&is=6abe51b3&hm=81d1c48e9efa0cad0c75191a97c30a7b1fede093d473f43ad1650e98cb1337da&",
 								"name": "2026-08-22_152000.png",
 								"content_type": "image/png",
 								"width": 1096,
@@ -3813,7 +3867,7 @@
 									"title": null,
 									"description": null,
 									"url": "https://cdn.discordapp.com/attachments/1464224177572810916/1540466996095754250/1000015211-1.gif",
-									"image": "https://cdn.discordapp.com/attachments/1464224177572810916/1540466996095754250/1000015211-1.gif?ex=6abecb30&is=6abd79b0&hm=fa9ed4f259d21699f5a156e7de301932be291c7f9ee565c6512a21e6dccd7e2a&"
+									"image": "https://cdn.discordapp.com/attachments/1464224177572810916/1540466996095754250/1000015211-1.gif?ex=6abf73f0&is=6abe2270&hm=2af7a9267368e7c47b34da2140302053bc3a31d0402e085e8ac6bcbea7aeffeb&"
 								}
 							],
 							"url": "https://discord.com/channels/1114276509146959982/1540411403633033317/1540467678144110652"
@@ -4131,7 +4185,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1539163893501399162/1539195518255898775/image.png?ex=6abec848&is=6abd76c8&hm=c2d6e281a1e771a81a5e67a823333024bc9cb5f6d742de8a537a46694d495717&",
+									"url": "https://cdn.discordapp.com/attachments/1539163893501399162/1539195518255898775/image.png?ex=6abf7108&is=6abe1f88&hm=fd14a4572387e29f4c925ad103197487a03c755ea9dcf02009cd6d7845869155&",
 									"name": "image.png",
 									"content_type": "image/png",
 									"width": 1388,
