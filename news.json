@@ -1,5 +1,5 @@
 {
-	"generated_at": "2026-10-10T22:01:25.928Z",
+	"generated_at": "2026-10-11T00:52:39.726Z",
 	"channels": [
 		{
 			"id": "1256213928283734049",
@@ -468,7 +468,7 @@
 				{
 					"id": "1533159585282527482",
 					"author": "Delaik",
-					"author_color": "#ff0000",
+					"author_color": null,
 					"avatar": "https://cdn.discordapp.com/avatars/795952533079064597/7cf3013e7fc0f2f00ec7841e5a87fe18.png?size=64",
 					"content": "<@&1181709309860663360> <@&1181709312817631263> \n## По тех. причинам івент відміняєця 🥀",
 					"mentions": {
@@ -492,7 +492,7 @@
 				{
 					"id": "1532866655435358299",
 					"author": "Delaik",
-					"author_color": "#ff0000",
+					"author_color": null,
 					"avatar": "https://cdn.discordapp.com/avatars/795952533079064597/7cf3013e7fc0f2f00ec7841e5a87fe18.png?size=64",
 					"content": "<@&1181709312817631263> <@&1181709309860663360> \n# Аукціон! 💰 \nВітаю шановні корупціонери!)\nОголошую про проведення легендарного аукціону!\nПриносьте все що захочете предмети, транспорт, кота в мішку і тд.\nВи зможете пізаробити на саоїх лотах або ж потратитися на чужі!\nЧекаємо вас!\n## 🕙 Час: в суботу 1.08 о 20:00(за укр часом)\n## 🌇 Місце: Los Champiñones/Центральна площа/Театр",
 					"mentions": {
@@ -1093,7 +1093,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1555092677153005588/1555180341231230996/ce12d93fc8369108aa2e0c45cb5b14e7.webp?backend=b2&ex=6acb738f&is=6aca220f&hm=840a8251bb1ca793bd3eca511ac5c2b12348c79fe59a597abb3da1da1b0018b0&",
+									"url": "https://cdn.discordapp.com/attachments/1555092677153005588/1555180341231230996/ce12d93fc8369108aa2e0c45cb5b14e7.webp?backend=b2&ex=6acc1c4f&is=6acacacf&hm=6b810efe61677f5258dd7f03edf2211bbe3e70c26bb6c500900acc46fc59676b&",
 									"name": "ce12d93fc8369108aa2e0c45cb5b14e7.webp",
 									"content_type": "image/webp",
 									"width": 680,
@@ -1356,7 +1356,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1553468856259973120/1555527462178259034/9f6aafbb0e871c5b62f33d48318109e9.gif?backend=b2&ex=6acb6557&is=6aca13d7&hm=48fd5d7a1de78a47ffaaaac7d205527377654a02c7d91a82114f11b6628c99f8&",
+									"url": "https://cdn.discordapp.com/attachments/1553468856259973120/1555527462178259034/9f6aafbb0e871c5b62f33d48318109e9.gif?backend=b2&ex=6acc0e17&is=6acabc97&hm=34006e346e7ad6d453f77aa7a0010e61e236086454ea7e586609d9a371e7d289&",
 									"name": "9f6aafbb0e871c5b62f33d48318109e9.gif",
 									"content_type": "image/gif",
 									"width": 720,
@@ -3000,7 +3000,7 @@
 						"edited_timestamp": "2026-08-25T12:43:29.245000+00:00",
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541753874174451763/1541753874560454707/c933b662-5f25-4e76-b416-3fa7cf8eba72.png?ex=6acb62b0&is=6aca1130&hm=ba904b0d855366d7fab3390a6c470c5edad6dccf14f7bced65c16dc08934c400&",
+								"url": "https://cdn.discordapp.com/attachments/1541753874174451763/1541753874560454707/c933b662-5f25-4e76-b416-3fa7cf8eba72.png?ex=6acc0b70&is=6acab9f0&hm=dbbf24b847ff3da5391cf21591167d6db5617e0e1f9cf812a97b00fa0dfa1558&",
 								"name": "c933b662-5f25-4e76-b416-3fa7cf8eba72.png",
 								"content_type": "image/png",
 								"width": 1536,
@@ -3744,14 +3744,14 @@
 						"edited_timestamp": "2026-08-23T12:06:56.623000+00:00",
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055872933957713/c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg?ex=6acb7b9f&is=6aca2a1f&hm=df06781cae71850e439e042fc142258e019a3eee1674cb2c3421ab033a026324&",
+								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055872933957713/c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg?ex=6acc245f&is=6acad2df&hm=b82b04b5467543c538057c0834bdf1ab1375c1ddb30125cda4b7050e5103d470&",
 								"name": "c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg",
 								"content_type": "image/jpeg",
 								"width": 1536,
 								"height": 1024
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055873785536614/2026-08-23_145122.jpg?ex=6acb7b9f&is=6aca2a1f&hm=35556cdd29e53fbc7d004b1ad5186aab0f1eb3e5efd8f855f6ffed92df8c007b&",
+								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055873785536614/2026-08-23_145122.jpg?ex=6acc245f&is=6acad2df&hm=15120be74172bc8b2fb6f4017ff3efb23c09f06bfc09c4f517db834faba79c29&",
 								"name": "2026-08-23_145122.jpg",
 								"content_type": "image/jpeg",
 								"width": 1920,
@@ -3802,7 +3802,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541035491590144000/1541035491770630144/image.png?ex=6acb68a4&is=6aca1724&hm=30a44c0d780459a2bbebf4a600461ba3cfb79af92405f0f056e97c7e8e85e4e3&",
+								"url": "https://cdn.discordapp.com/attachments/1541035491590144000/1541035491770630144/image.png?ex=6acc1164&is=6acabfe4&hm=7052ef109bd70260444bbfc10936b2a5bcbb6f6f148968aec2d58a04052e8242&",
 								"name": "image.png",
 								"content_type": "image/webp",
 								"width": 1001,
@@ -4083,7 +4083,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540698938355617893/1540698939010056285/2026-08-22_152000.png?ex=6acb80b3&is=6aca2f33&hm=aef63985f76c2baf2c152d5a3cd6b2e3ee0f17cddf1b9828433d9b795ac27389&",
+								"url": "https://cdn.discordapp.com/attachments/1540698938355617893/1540698939010056285/2026-08-22_152000.png?ex=6acc2973&is=6acad7f3&hm=ac83979097d2eba2507420bf64a62bcef7a9ade008968f0e19097a85230c7c77&",
 								"name": "2026-08-22_152000.png",
 								"content_type": "image/png",
 								"width": 1096,
