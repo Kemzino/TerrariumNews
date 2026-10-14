@@ -1,5 +1,5 @@
 {
-	"generated_at": "2026-10-14T12:11:16.000Z",
+	"generated_at": "2026-10-14T17:12:53.346Z",
 	"channels": [
 		{
 			"id": "1256213928283734049",
@@ -396,14 +396,14 @@
 					"edited_timestamp": "2026-08-17T15:04:10.567000+00:00",
 					"attachments": [
 						{
-							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538925779197370430/image.png?ex=6ad04211&is=6acef091&hm=dbe4b9ab97bcad596192260fde01cb1ca507e7d003028c55fa2973ae91198675&",
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538925779197370430/image.png?ex=6ad0ead1&is=6acf9951&hm=5e401328457eb22bf64709ba60b9fa1d4f4b638cbcacb762b273985ed85f66ab&",
 							"name": "image.png",
 							"content_type": "image/png",
 							"width": 1194,
 							"height": 599
 						},
 						{
-							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538925779914727484/image.png?ex=6ad04211&is=6acef091&hm=c7627e9985ea57baa54a44234581784e3b1bc2ebc5126b0c64790acef19b6a7c&",
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538925779914727484/image.png?ex=6ad0ead1&is=6acf9951&hm=b35575f8c3532a47c7a494ec598cb78c49f5bc02ff1df24815710bf5fa9693a3&",
 							"name": "image.png",
 							"content_type": "image/png",
 							"width": 1305,
@@ -579,8 +579,8 @@
 				},
 				{
 					"id": "1530559050901880882",
-					"author": "raflesssia",
-					"author_color": null,
+					"author": "belfegormel",
+					"author_color": "#ff8400",
 					"avatar": "https://cdn.discordapp.com/avatars/483200783404367882/b80883daad13a74be52da062cad446ff.png?size=64",
 					"content": "<@&1181709312817631263> <@&1181709309860663360> \n\nЧерез брак людей ми переносимо івент на 18:00, сподіваюсь буде більше людей!",
 					"mentions": {
@@ -603,8 +603,8 @@
 				},
 				{
 					"id": "1530224356079435867",
-					"author": "raflesssia",
-					"author_color": null,
+					"author": "belfegormel",
+					"author_color": "#ff8400",
 					"avatar": "https://cdn.discordapp.com/avatars/483200783404367882/b80883daad13a74be52da062cad446ff.png?size=64",
 					"content": "<@&1181709309860663360> <@&1181709312817631263> \n\n# Повторне проведення івенту AMONG US! #\n\nЗапрошуєм бажаючих пограти знов, в цю суботу (25.07)! ||(хто не в чс)|| \n**Івент відбудеться о 16:00**, ми заберемо всіх на ~~космічному кораблі~~ дроні до місця проведення івенту. (Хто вже був то можете самі приходити, але прохання паркуватися за рендером, щоб не лагало)\n\n**хто планує бути на івенті будь ласка поставте смайлик зірочки**",
 					"mentions": {
@@ -1219,7 +1219,7 @@
 									"title": null,
 									"description": null,
 									"url": "https://cdn.discordapp.com/attachments/470348823902814219/1274050922812801109/IMG_5681.gif",
-									"image": "https://cdn.discordapp.com/attachments/470348823902814219/1274050922812801109/IMG_5681.gif?ex=6ad05ea2&is=6acf0d22&hm=141dcaedbe2032cb0caa2d91d2d72f2ea4bd0eb831e5bedb6998760a342766da&"
+									"image": "https://cdn.discordapp.com/attachments/470348823902814219/1274050922812801109/IMG_5681.gif?ex=6ad10762&is=6acfb5e2&hm=8e4c23807319ac323319ea512bb9223c42b8ce77b1fbcfa9c103ce40aa965616&"
 								}
 							],
 							"url": "https://discord.com/channels/1114276509146959982/1553468856259973120/1553472848826208357"
@@ -2135,8 +2135,8 @@
 						},
 						{
 							"id": "1543046484331597885",
-							"author": "raflesssia",
-							"author_color": null,
+							"author": "belfegormel",
+							"author_color": "#ff8400",
 							"avatar": "https://cdn.discordapp.com/avatars/483200783404367882/b80883daad13a74be52da062cad446ff.png?size=64",
 							"content": "В тебе незакритий гештальт на вибачення? (Без негативу)",
 							"mentions": {
@@ -3289,7 +3289,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1541753874174451763/1541828374891331695/image.png?ex=6ad04552&is=6acef3d2&hm=ef2f586986cdb823d410bc16ed488c731532e3f13cac995d9bea441ac40414a1&",
+									"url": "https://cdn.discordapp.com/attachments/1541753874174451763/1541828374891331695/image.png?ex=6ad0ee12&is=6acf9c92&hm=9550f3c11d6fd681e0ea470fa79f5f3732a562398df5e58e82c9a4ebb1fd8cc8&",
 									"name": "image.png",
 									"content_type": "image/webp",
 									"width": 315,
@@ -3372,28 +3372,28 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110288424894544/2026-08-17_185353.png?ex=6ad04b8d&is=6acefa0d&hm=aeede28c66ff79cbc55a75b646c7aeb67011ab6ef477eba40c46291d8db0dfca&",
+								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110288424894544/2026-08-17_185353.png?ex=6ad0f44d&is=6acfa2cd&hm=bbb250c7a98a8b4eef08d704fe88dba3e14e0864a8008b92777351c618dd3e10&",
 								"name": "2026-08-17_185353.png",
 								"content_type": "image/png",
 								"width": 398,
 								"height": 617
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110288919830628/2026-08-17_171144.png?ex=6ad04b8d&is=6acefa0d&hm=b93696c571dbc16f5d1585cc14d422fa544d11296e288d907b7ac5e5102b652c&",
+								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110288919830628/2026-08-17_171144.png?ex=6ad0f44d&is=6acfa2cd&hm=e4b828e0670c96c4acedd440e59484bd81a4338114e85f70344be7f3884bdefa&",
 								"name": "2026-08-17_171144.png",
 								"content_type": "image/png",
 								"width": 1305,
 								"height": 747
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110289393524818/2026-08-17_171024.png?ex=6ad04b8d&is=6acefa0d&hm=29825b28464ac7579233f57d79e7a673345c0a31648321f1445bd0774a2b665e&",
+								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110289393524818/2026-08-17_171024.png?ex=6ad0f44d&is=6acfa2cd&hm=dd01b871fc1ac335c6abeb37b30a9cf807d0077edb34169445cb1722126aec1a&",
 								"name": "2026-08-17_171024.png",
 								"content_type": "image/png",
 								"width": 1194,
 								"height": 599
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110289758556250/2026-08-17_173353.png?ex=6ad04b8d&is=6acefa0d&hm=0e004b7ed6f7604e4ea5ad353b9dac871525b8c9d922e0b173d9209327ffbd81&",
+								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110289758556250/2026-08-17_173353.png?ex=6ad0f44d&is=6acfa2cd&hm=a1236e981c3f594efece1b66a631be30a593c706fa65cf72726f209eb4699aee&",
 								"name": "2026-08-17_173353.png",
 								"content_type": "image/webp",
 								"width": 1242,
@@ -3462,7 +3462,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541125828581007421/image.png?ex=6ad05a06&is=6acf0886&hm=0f0099153c91e7027267f118a3b6b0dee21c3c384a5cfd5045af70d021878c3e&",
+									"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541125828581007421/image.png?ex=6ad102c6&is=6acfb146&hm=c95802ebf4bdfe67a0abc6a6521dae07a284815b4260810858d2db82d97e8dfd&",
 									"name": "image.png",
 									"content_type": "image/webp",
 									"width": 494,
@@ -4119,7 +4119,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540698938355617893/1540698939010056285/2026-08-22_152000.png?ex=6ad01df3&is=6acecc73&hm=e0e96969e34acd443c502bd2f6d6b03df7c65d37c3c91b63ad7fd5648d98e9de&",
+								"url": "https://cdn.discordapp.com/attachments/1540698938355617893/1540698939010056285/2026-08-22_152000.png?ex=6ad0c6b3&is=6acf7533&hm=616df8d8bb8c2fe85ad650c31b3bc699b7677913c007ab39025268b1e6dd1ce9&",
 								"name": "2026-08-22_152000.png",
 								"content_type": "image/png",
 								"width": 1096,
@@ -4236,7 +4236,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540374701669359717/1540374702105559040/image.png?ex=6ad0417b&is=6aceeffb&hm=bed1b3fa8551b8940d2591db0b8e69e18772b1db3f17af1eb968cbf2d5fd50a0&",
+								"url": "https://cdn.discordapp.com/attachments/1540374701669359717/1540374702105559040/image.png?ex=6ad0ea3b&is=6acf98bb&hm=ac2d2ebb1100a03099bf19ba2919a0c8ab8c2ac09ead34fa8b7a71dbc220cb97&",
 								"name": "image.png",
 								"content_type": "image/png",
 								"width": 1113,
