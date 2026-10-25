@@ -1,5 +1,5 @@
 {
-	"generated_at": "2026-10-24T23:39:02.522Z",
+	"generated_at": "2026-10-25T01:36:17.669Z",
 	"channels": [
 		{
 			"id": "1256213928283734049",
@@ -318,6 +318,70 @@
 			"url": "https://discord.com/channels/1114276509146959982/1284175717491282002",
 			"messages": [
 				{
+					"id": "1563716884996821153",
+					"author": "BlaCkMeXanIk",
+					"author_color": "#ff8400",
+					"avatar": "https://cdn.discordapp.com/avatars/1029513650832146523/80f1aa28b0e9ccb98670b1a7908f855d.png?size=64",
+					"content": "<@&1114279838572879914>",
+					"mentions": {
+						"users": {
+							"1183063490630520916": "dima"
+						},
+						"roles": {
+							"1114279838572879914": {
+								"name": "Адміністратор",
+								"color": "#ff181c"
+							}
+						}
+					},
+					"timestamp": "2026-10-25T00:52:37.838000+00:00",
+					"edited_timestamp": null,
+					"attachments": [],
+					"embeds": [],
+					"url": "https://discord.com/channels/1114276509146959982/1284175717491282002/1563716884996821153"
+				},
+				{
+					"id": "1563712395426136218",
+					"author": "dima",
+					"author_color": "#ffe1a4",
+					"avatar": "https://cdn.discordapp.com/avatars/1183063490630520916/1a941e912c71dab90622bb3b5a7bbe08.png?size=64",
+					"content": "",
+					"timestamp": "2026-10-25T00:34:47.441000+00:00",
+					"edited_timestamp": null,
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1563712393874243634/image.jpg?ex=6adea027&is=6add4ea7&hm=6430bba935ef3041fb8c4f4c6ac8ad8eb414049235fb960cae25b3f2645250c9&",
+							"name": "image.jpg",
+							"content_type": "image/jpeg",
+							"width": 826,
+							"height": 1135
+						},
+						{
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1563712394318975026/image.jpg?ex=6adea027&is=6add4ea7&hm=f54d88b37708f81e34d1ca27eb535cb7076d9b407632e59e72d38458b617232f&",
+							"name": "image.jpg",
+							"content_type": "image/jpeg",
+							"width": 735,
+							"height": 622
+						},
+						{
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1563712394750984202/image.jpg?ex=6adea027&is=6add4ea7&hm=875416caff4babf7f27359e04a948a6a739fce009de80bbe538e4ac515ed18a1&",
+							"name": "image.jpg",
+							"content_type": "image/jpeg",
+							"width": 802,
+							"height": 818
+						},
+						{
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1563712395237400617/image.jpg?ex=6adea027&is=6add4ea7&hm=6a6f1112221beef0c3e9d617c35537937d1da1e0c1c3f08c4073cd76eab78d2a&",
+							"name": "image.jpg",
+							"content_type": "image/jpeg",
+							"width": 1002,
+							"height": 1267
+						}
+					],
+					"embeds": [],
+					"url": "https://discord.com/channels/1114276509146959982/1284175717491282002/1563712395426136218"
+				},
+				{
 					"id": "1556323271765655683",
 					"author": "papash_2456vvv",
 					"author_color": "#f1c40f",
@@ -624,49 +688,6 @@
 					"attachments": [],
 					"embeds": [],
 					"url": "https://discord.com/channels/1114276509146959982/1284175717491282002/1530224356079435867"
-				},
-				{
-					"id": "1528800019136905489",
-					"author": "⬢ The_V1ter",
-					"author_color": "#ff8400",
-					"avatar": "https://cdn.discordapp.com/avatars/473570040327831552/cdf835c07072913964b0ba859d301596.png?size=64",
-					"content": "<@&1181709309860663360> \nДрузі, усім привіт, з ким ще сьогодні не вітався. Напевно, вже всі бачили та чули про сьогоднішні події.\n\nДемократія... Яке велике та хороше слово... Жаль, що тільки слово... На жаль, коли даєш забагато самостійності та перестаєш контролювати, тебе перестають слухати та поважати...\n\nСаме тому Федеративному Місту настає кінець. Натомість на політичну арену виходить Імперське Місто. Так, так... Імперія повертається.\n\nНа даний момент усі автономії та адміністративні структури я скасовую. Натомість буде діяти Імператорська Канцелярія. На чолі зі мною (як Імператором). Окрім мене, до неї входять <@608726023756054534> (як Кронпринц) та @MESONDAR  (як Прем'єр-міністр).\n\nДля усунення кризи під своє управління Кронпринц бере Нью Алабаму та Котоніку.\n\nПрем'єр-міністр бере під своє управління Рейлфорд та Яойольтеуанітлатлакастлі.\n\nЗа Імператором залишаються всі інші регіони.\n\nОчікуйте подальших новин.",
-					"mentions": {
-						"users": {
-							"608726023756054534": "JENEROLL🦅"
-						},
-						"roles": {
-							"1181709309860663360": {
-								"name": "📣 Пінг・Оголошення",
-								"color": "#2ecc71"
-							}
-						}
-					},
-					"timestamp": "2026-07-20T16:25:28.293000+00:00",
-					"edited_timestamp": null,
-					"attachments": [],
-					"embeds": [],
-					"url": "https://discord.com/channels/1114276509146959982/1284175717491282002/1528800019136905489"
-				},
-				{
-					"id": "1528483322026659900",
-					"author": "BlaCkMeXanIk",
-					"author_color": "#ff8400",
-					"avatar": "https://cdn.discordapp.com/avatars/1029513650832146523/80f1aa28b0e9ccb98670b1a7908f855d.png?size=64",
-					"content": "<@&1181709309860663360> \n**Офіційне оголошення ТСІ та Відділу автотранспорту**\n\nПовідомляємо, що **з 20.07.2026 по 27.07.2026** включно проводитимуться ремонтні роботи на автомобільній дорозі **М1 (Спавн > Кабукі Едо)**.\n\nУ період проведення робіт можливі:\n\n- тимчасові перекриття окремих ділянок дороги;\n- обмеження руху транспорту;\n- незначні затримки під час проїзду.\n\nПросимо враховувати цю інформацію під час планування маршрутів та з розумінням поставитися до тимчасових незручностей.\n\n**Дякуємо за розуміння!**\n\n**З повагою,**\n**Компанія ТСІ та Відділ автотранспорту**",
-					"mentions": {
-						"roles": {
-							"1181709309860663360": {
-								"name": "📣 Пінг・Оголошення",
-								"color": "#2ecc71"
-							}
-						}
-					},
-					"timestamp": "2026-07-19T19:27:01.818000+00:00",
-					"edited_timestamp": null,
-					"attachments": [],
-					"embeds": [],
-					"url": "https://discord.com/channels/1114276509146959982/1284175717491282002/1528483322026659900"
 				}
 			],
 			"posts": []
@@ -696,7 +717,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1560097669970395156/1560097670264131675/image.png?ex=6addffed&is=6adcae6d&hm=5fa26a79336adb743606b923f29127948c4d1511886f162b55ebdd814a1ebb86&",
+								"url": "https://cdn.discordapp.com/attachments/1560097669970395156/1560097670264131675/image.png?ex=6adea8ad&is=6add572d&hm=2e7e85474f7c3cc50d1df092e4df5440b90335f176e057dd74df73716f16fd49&",
 								"name": "image.png",
 								"content_type": "image/png",
 								"width": 2187,
@@ -3809,14 +3830,14 @@
 						"edited_timestamp": "2026-08-23T12:06:56.623000+00:00",
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055872933957713/c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg?ex=6addf09f&is=6adc9f1f&hm=86261fc9306f6c6795a4759c6d2ec1ada5cf85d38d5cdb005115537c579cc5d2&",
+								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055872933957713/c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg?ex=6ade995f&is=6add47df&hm=c8705cc78c20b07917f388c6ba22a78b76def881d4c2a066c73c378ab740ea40&",
 								"name": "c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg",
 								"content_type": "image/jpeg",
 								"width": 1536,
 								"height": 1024
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055873785536614/2026-08-23_145122.jpg?ex=6addf09f&is=6adc9f1f&hm=c266ea93a0d821b50ae226b3fac74c83e4749f0573aef4ac494b42ecb169a34f&",
+								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055873785536614/2026-08-23_145122.jpg?ex=6ade995f&is=6add47df&hm=635ef6c343b10fe9d280c75d747a4f324326ea9bcd6769d669019e949ba98b71&",
 								"name": "2026-08-23_145122.jpg",
 								"content_type": "image/jpeg",
 								"width": 1920,
@@ -4148,7 +4169,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540698938355617893/1540698939010056285/2026-08-22_152000.png?ex=6addf5b3&is=6adca433&hm=72271bdb21b49f08f157b6c95bf0b3c2cae80a23be5d54e12016dcb909829d20&",
+								"url": "https://cdn.discordapp.com/attachments/1540698938355617893/1540698939010056285/2026-08-22_152000.png?ex=6ade9e73&is=6add4cf3&hm=1463312e55856d711fa9aa24dc038c49fed6d968752eacaa16cbaa8ce6f8ed2b&",
 								"name": "2026-08-22_152000.png",
 								"content_type": "image/png",
 								"width": 1096,
