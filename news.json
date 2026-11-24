@@ -1,5 +1,5 @@
 {
-	"generated_at": "2026-11-24T05:36:01.759Z",
+	"generated_at": "2026-11-24T16:19:03.805Z",
 	"channels": [
 		{
 			"id": "1256213928283734049",
@@ -23,7 +23,7 @@
 					"edited_timestamp": "2026-11-23T18:01:02.874000+00:00",
 					"attachments": [
 						{
-							"url": "https://cdn.discordapp.com/attachments/1256213928283734049/1574482022326341642/03af139b-2ee2-4cda-89c4-43a27bdb4c7c.png?ex=6b05ce26&is=6b047ca6&hm=cd3891eb1fff552d0f90f4098d4ba380487e60ddb32afb5fb9803f3ffbb836c9&",
+							"url": "https://cdn.discordapp.com/attachments/1256213928283734049/1574482022326341642/03af139b-2ee2-4cda-89c4-43a27bdb4c7c.png?ex=6b0676e6&is=6b052566&hm=f1ab294c7279262fa57417255500fc09f683b28e199365df792d9ff74ff3e44f&",
 							"name": "03af139b-2ee2-4cda-89c4-43a27bdb4c7c.png",
 							"content_type": "image/png",
 							"width": 2560,
@@ -172,7 +172,7 @@
 					"edited_timestamp": "2026-10-12T09:05:32.818000+00:00",
 					"attachments": [
 						{
-							"url": "https://cdn.discordapp.com/attachments/1256213928283734049/1559128750719901726/Gemini_Generated_Image_tkb7hbtkb7hbtkb7_1_2.png?ex=6b05fb0d&is=6b04a98d&hm=e894b11fe063bcdd342bcfdf37dbd98e4c04e34bc4ee91b9bfb3715ccd497e8e&",
+							"url": "https://cdn.discordapp.com/attachments/1256213928283734049/1559128750719901726/Gemini_Generated_Image_tkb7hbtkb7hbtkb7_1_2.png?ex=6b06a3cd&is=6b05524d&hm=40d9c43b7264d971df2409d7f52f38929846ca200c5bc58a385adc947711abb0&",
 							"name": "Gemini_Generated_Image_tkb7hbtkb7hbtkb7_1_2.png",
 							"content_type": "image/png",
 							"width": 631,
@@ -358,6 +358,62 @@
 			"url": "https://discord.com/channels/1114276509146959982/1284175717491282002",
 			"messages": [
 				{
+					"id": "1574743220078911528",
+					"author": "CrazyDen16",
+					"author_color": "#ff8400",
+					"avatar": "https://cdn.discordapp.com/avatars/1040625898308767854/bc433db37fc6015bb84ff93c556478fc.png?size=64",
+					"content": "<@&1181709309860663360> \n# ROCKY RIDGE - НАБІР МЕШКАНЦІВ\n\n### 🏜️ Концепція\n\n**Rocky Ridge** - містечко із тематикою Дикого Заходу. Наша мета створити атмосферне ковбойське поселення з характерною архітектурою, власною історією та цікавим життям.\n\n### 📜 Історія містечка\n\nКолись один ковбой на прізвисько **Полум'яна Грива** був вигнаний зі свого рідного поселення через примху жадібного мера. Залишивши позаду старе життя, він вирушив мандрувати безкрайніми пустошами, доки не знайшов мальовниче місце серед величних скель і каньйонів. Саме там він вирішив збудувати свій новий дім.\n\nЗгодом до нього приєдналася швачка, яка також стала жертвою несправедливості. Вони створили сім'ю, а з часом почали приймати інших людей, яких вигнали з рідних домівок або які просто шукали кращого життя.\n\nТак, поступово, навколо невеликого будинку виросло ціле містечко **Rocky Ridge**.\n\n### 🔨 Плани на сезон\n\nПротягом сезону ми плануємо не просто збудувати містечко, а й поступово перетворити його на повноцінне поселення зі своєю атмосферою, власною залізницею та кінним загоном з цікавою особливістю, також планується проведення двох тематичних івентів. Їхню концепцію поки залишимо в таємниці. Ну і звичайно будемо раді бачити нових мешканців та разом будувати та розвивати наше містечко.\n\n### 👥 Кого ми шукаємо?\n\nДо Rocky Ridge можуть приєднатися як новачки, так і досвідчені гравці, які хочуть розвиватися разом із нами та брати участь у житті містечка.\n\n**Єдина умова:** гравець не повинен уже мати власний район **(подвійне громадянство між районами не допускається)**.\n\n### 📝 Як приєднатися?\n\nЯкщо вас зацікавила наша концепція та ви бажаєте стати мешканцем Rocky Ridge залишайте повідомлення під цим оголошенням. Ми зв'яжемося з вами та розповімо подальші деталі.",
+					"mentions": {
+						"roles": {
+							"1181709309860663360": {
+								"name": "📣 Пінг・Оголошення",
+								"color": "#2ecc71"
+							}
+						}
+					},
+					"timestamp": "2026-11-24T11:07:20.981000+00:00",
+					"edited_timestamp": "2026-11-24T15:56:25.815000+00:00",
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1574743219655151667/photo_2026-11-19_20-32-50.jpg?ex=6b06c168&is=6b056fe8&hm=34d359a001782ff3e4a9e00195b87cf599333593c4afb298ec11e06d43a36c4f&",
+							"name": "photo_2026-11-19_20-32-50.jpg",
+							"content_type": "image/jpeg",
+							"width": 1254,
+							"height": 1254
+						}
+					],
+					"embeds": [],
+					"url": "https://discord.com/channels/1114276509146959982/1284175717491282002/1574743220078911528"
+				},
+				{
+					"id": "1574679261350985809",
+					"author": "HAOSTIM",
+					"author_color": "#9b59b6",
+					"avatar": "https://cdn.discordapp.com/avatars/1234847323180236859/e39e60d589dac6fe7bf1f3902605c8ce.png?size=64",
+					"content": "<@&1181709309860663360> \nVosduCity (ВоздуСіті) відкриває набір гравців на новий сезон!\n\nЯкщо вам по душі не просто сидіти в шахті, а будувати живу економіку та рухати ресурси по всьому серверу - вам точно до нас.\n\nЩо в планах на сезон:\n\nМорська та залізнична логістика. Головна фішка міста - вантажоперевезення. Збудуємо порти, прокладемо залізницю й запустимо цілий флот: від невеликих катерів до величезних вантажних кораблів, а також поїзди для далеких маршрутів.\n\nМасштабне будівництво. Замість дрібних хатинок плануємо робити по-справжньому великі проєкти, де знайдеться робота кожному -  від інженерів Create до будівельників.\n\nСпокійна гра. Скоріше за все, місто триматиме мирний курс - без зайвих воєн, з фокусом на розвиток, торгівлю та круті споруди.\n\nЩоб зайти до нас: https://discord.gg/FFrt9MXC7\n\nЯк залетіти до нас?\nПросто залиште плюсик або напишіть у гілці під цим постом, що хочете в місто. Ми відпишемо в особисті й усе пояснимо.\n\nЧекаємо в команді VosduCity - разом побудуємо головний транспортний вузол сезону!",
+					"mentions": {
+						"roles": {
+							"1181709309860663360": {
+								"name": "📣 Пінг・Оголошення",
+								"color": "#2ecc71"
+							}
+						}
+					},
+					"timestamp": "2026-11-24T06:53:12.032000+00:00",
+					"edited_timestamp": "2026-11-24T13:52:39.496000+00:00",
+					"attachments": [
+						{
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1574679261007187988/image.png?ex=6b0685d7&is=6b053457&hm=a15b216b569e5b0f56f764753f3f4ae8057aa2565f369bfa9e70163fa05c7da8&",
+							"name": "image.png",
+							"content_type": "image/png",
+							"width": 410,
+							"height": 720
+						}
+					],
+					"embeds": [],
+					"url": "https://discord.com/channels/1114276509146959982/1284175717491282002/1574679261350985809"
+				},
+				{
 					"id": "1574517651349446768",
 					"author": "_stosik_",
 					"author_color": "#ff8400",
@@ -371,7 +427,7 @@
 							"title": null,
 							"description": null,
 							"url": "https://cdn.discordapp.com/attachments/1420687998508466258/1556635817923977216/prapor-orbity-romb.gif?backend=b2",
-							"image": "https://cdn.discordapp.com/attachments/1420687998508466258/1556635817923977216/prapor-orbity-romb.gif?backend=b2&ex=6b0623d3&is=6b04d253&hm=c31a45c0646b2ff88c006b4380450d787ef1633916023458690cff43b2f38445&"
+							"image": "https://cdn.discordapp.com/attachments/1420687998508466258/1556635817923977216/prapor-orbity-romb.gif?backend=b2&ex=6b06cc93&is=6b057b13&hm=ef4086df1ad5b8bc61241e31c816ba85e9067e9b27456742be1b14d61f4c9632&"
 						}
 					],
 					"url": "https://discord.com/channels/1114276509146959982/1284175717491282002/1574517651349446768"
@@ -475,14 +531,14 @@
 					"edited_timestamp": "2026-08-17T15:04:10.567000+00:00",
 					"attachments": [
 						{
-							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538925779197370430/image.png?ex=6b064f91&is=6b04fe11&hm=38e40d4bb7565f964b8360451c835b911d5580e7b03fc48d19da31b2b74c8e49&",
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538925779197370430/image.png?ex=6b06f851&is=6b05a6d1&hm=a589ba394b6887495a012b0fe67c22893dd938df72ee5aa60868a076cc2df72a&",
 							"name": "image.png",
 							"content_type": "image/png",
 							"width": 1194,
 							"height": 599
 						},
 						{
-							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538925779914727484/image.png?ex=6b064f91&is=6b04fe11&hm=acdb85fc5ee88d52558cfa80f2c2a9d8d7abf4bb2809c755cf57cde175eed815&",
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538925779914727484/image.png?ex=6b06f851&is=6b05a6d1&hm=5b3f4f5871d80f5fbb99380b7b9bd49e30077a3f5cd4c976a7affd7eebbe3699&",
 							"name": "image.png",
 							"content_type": "image/png",
 							"width": 1305,
@@ -530,7 +586,7 @@
 					"edited_timestamp": null,
 					"attachments": [
 						{
-							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538245438484783194/image.png?ex=6b05d033&is=6b047eb3&hm=3081524ee75550d8a0a7c6c83ad921d53b398e6052eaa08da42c894705356ac2&",
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1538245438484783194/image.png?ex=6b0678f3&is=6b052773&hm=d47d827bd9142d032cae6a35288c631e5ce741fcfc2136a3ca99c5e3292e0b81&",
 							"name": "image.png",
 							"content_type": "image/png",
 							"width": 3840,
@@ -626,7 +682,7 @@
 					"edited_timestamp": "2026-08-01T09:13:51.447000+00:00",
 					"attachments": [
 						{
-							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1532866655007281352/image-1-1.png?ex=6b060551&is=6b04b3d1&hm=df7887c05906473e3de2bab0f1b691d2de90938fc375f29a089b72a1781e85a2&",
+							"url": "https://cdn.discordapp.com/attachments/1284175717491282002/1532866655007281352/image-1-1.png?ex=6b06ae11&is=6b055c91&hm=62f75c09e3710218afe5c5f3ce01c4c86cdbbb34c538008bc92d2e25cba85290&",
 							"name": "image-1-1.png",
 							"content_type": "image/png",
 							"width": 1920,
@@ -655,54 +711,6 @@
 					"attachments": [],
 					"embeds": [],
 					"url": "https://discord.com/channels/1114276509146959982/1284175717491282002/1530909982340677813"
-				},
-				{
-					"id": "1530559050901880882",
-					"author": "belfegormel",
-					"author_color": "#ff8400",
-					"avatar": "https://cdn.discordapp.com/avatars/483200783404367882/b80883daad13a74be52da062cad446ff.png?size=64",
-					"content": "<@&1181709312817631263> <@&1181709309860663360> \n\nЧерез брак людей ми переносимо івент на 18:00, сподіваюсь буде більше людей!",
-					"mentions": {
-						"roles": {
-							"1181709309860663360": {
-								"name": "📣 Пінг・Оголошення",
-								"color": "#2ecc71"
-							},
-							"1181709312817631263": {
-								"name": "🎉 Пінг・Івенти",
-								"color": "#9b59b6"
-							}
-						}
-					},
-					"timestamp": "2026-07-25T12:55:14.147000+00:00",
-					"edited_timestamp": null,
-					"attachments": [],
-					"embeds": [],
-					"url": "https://discord.com/channels/1114276509146959982/1284175717491282002/1530559050901880882"
-				},
-				{
-					"id": "1530224356079435867",
-					"author": "belfegormel",
-					"author_color": "#ff8400",
-					"avatar": "https://cdn.discordapp.com/avatars/483200783404367882/b80883daad13a74be52da062cad446ff.png?size=64",
-					"content": "<@&1181709309860663360> <@&1181709312817631263> \n\n# Повторне проведення івенту AMONG US! #\n\nЗапрошуєм бажаючих пограти знов, в цю суботу (25.07)! ||(хто не в чс)|| \n**Івент відбудеться о 16:00**, ми заберемо всіх на ~~космічному кораблі~~ дроні до місця проведення івенту. (Хто вже був то можете самі приходити, але прохання паркуватися за рендером, щоб не лагало)\n\n**хто планує бути на івенті будь ласка поставте смайлик зірочки**",
-					"mentions": {
-						"roles": {
-							"1181709309860663360": {
-								"name": "📣 Пінг・Оголошення",
-								"color": "#2ecc71"
-							},
-							"1181709312817631263": {
-								"name": "🎉 Пінг・Івенти",
-								"color": "#9b59b6"
-							}
-						}
-					},
-					"timestamp": "2026-07-24T14:45:16.683000+00:00",
-					"edited_timestamp": "2026-07-24T14:54:03.128000+00:00",
-					"attachments": [],
-					"embeds": [],
-					"url": "https://discord.com/channels/1114276509146959982/1284175717491282002/1530224356079435867"
 				}
 			],
 			"posts": []
@@ -732,7 +740,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1560097669970395156/1560097670264131675/image.png?ex=6b0635ad&is=6b04e42d&hm=b4e012bc2a03b19f6cebc1735ccaac6ec65c4738ff5bfb06bdb0e1ed0476940c&",
+								"url": "https://cdn.discordapp.com/attachments/1560097669970395156/1560097670264131675/image.png?ex=6b06de6d&is=6b058ced&hm=d14d7b5827d68f45b2aa304e5f2dcb6feb6bdbb462d786367af772eaad1fd03f&",
 								"name": "image.png",
 								"content_type": "image/png",
 								"width": 2187,
@@ -767,7 +775,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1557450856532672632/1557450862861885534/Untitled.png?backend=b2&ex=6b05cf25&is=6b047da5&hm=42351dd558e6ac2e131bb149d1ce1b360bdb2c4c97d0a21a9616638eddc64b95&",
+								"url": "https://cdn.discordapp.com/attachments/1557450856532672632/1557450862861885534/Untitled.png?backend=b2&ex=6b0677e5&is=6b052665&hm=84282635004d962b8281f635c08125a56a2df6b9a58008dc919369ca7afa2b3c&",
 								"name": "Untitled.png",
 								"content_type": "image/png",
 								"width": 2590,
@@ -806,7 +814,7 @@
 							"id": "1557453044726366361",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "це дійсно круто але я в бані",
 							"mentions": {
 								"users": {
@@ -961,7 +969,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092556020518912/2026-10-06_205042.png?backend=b2&ex=6b05d2f2&is=6b048172&hm=ab0b90832e86bd2cf677664aaf159275725f76997bddb811e4d97823b600339e&",
+								"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092556020518912/2026-10-06_205042.png?backend=b2&ex=6b067bb2&is=6b052a32&hm=b9b01eb0b1cee759f9d58be34066c6a3e160f75adb6ee920da23c91a2698cbc7&",
 								"name": "2026-10-06_205042.png",
 								"content_type": "image/png",
 								"width": 1337,
@@ -982,63 +990,63 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092859512094821/2026-10-06_205615.png?backend=b2&ex=6b05d33b&is=6b0481bb&hm=c22220505f1da599e4879a06c16604dacb2540fea5ac1dfd1d871285b9f46c5d&",
+									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092859512094821/2026-10-06_205615.png?backend=b2&ex=6b067bfb&is=6b052a7b&hm=e8e0f9720a8875418270b65ff46e8092a33e0d76dcf0f785f39ab9b4ea635023&",
 									"name": "2026-10-06_205615.png",
 									"content_type": "image/png",
 									"width": 1251,
 									"height": 800
 								},
 								{
-									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092861923827762/2026-10-06_205516.png?backend=b2&ex=6b05d33b&is=6b0481bb&hm=c16dbe0a8e90b66bd45470350775662c5ea6140523dea85465d8cbc32a507b69&",
+									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092861923827762/2026-10-06_205516.png?backend=b2&ex=6b067bfb&is=6b052a7b&hm=2c824a17c3ff7fba9d3093b75a6a23edac785e4ffc533e7add30d51e1a685e81&",
 									"name": "2026-10-06_205516.png",
 									"content_type": "image/png",
 									"width": 1865,
 									"height": 962
 								},
 								{
-									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092863211347968/2026-10-06_205441.png?backend=b2&ex=6b05d33b&is=6b0481bb&hm=e874284337eb01dbcc1e6e24c670f0a129c8199cd360092f075d3649702ba09a&",
+									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092863211347968/2026-10-06_205441.png?backend=b2&ex=6b067bfb&is=6b052a7b&hm=3c826fdfa6e2b783046be6d124db03c9f73f6067ffe0a69c0a397ca1b97dc273&",
 									"name": "2026-10-06_205441.png",
 									"content_type": "image/png",
 									"width": 872,
 									"height": 807
 								},
 								{
-									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092864306057327/2026-10-06_205417.png?backend=b2&ex=6b05d33c&is=6b0481bc&hm=be72d886ffd790e5432b6b691fe5082c6de8ca98721ea80ccad8889904066262&",
+									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092864306057327/2026-10-06_205417.png?backend=b2&ex=6b067bfc&is=6b052a7c&hm=3f9b7354a8ca5b5b893e8b93140eaf2af4a603866ef05297db741911c15ab248&",
 									"name": "2026-10-06_205417.png",
 									"content_type": "image/png",
 									"width": 1375,
 									"height": 842
 								},
 								{
-									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092865291722932/2026-10-06_205354.png?backend=b2&ex=6b05d33c&is=6b0481bc&hm=3232c24b93dc0ff26445500bde5251d2c57c9077ff39a8d3816872d0cf3ab9b0&",
+									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092865291722932/2026-10-06_205354.png?backend=b2&ex=6b067bfc&is=6b052a7c&hm=237fd2de21fdb8a5624e0c2cfac0ceeb7c5f9f478ac595dd69e1bb49640bc4f0&",
 									"name": "2026-10-06_205354.png",
 									"content_type": "image/png",
 									"width": 1817,
 									"height": 912
 								},
 								{
-									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092866306736148/2026-10-06_205318.png?backend=b2&ex=6b05d33c&is=6b0481bc&hm=3c4f7865984ffa2fb2135af83a8429633b814c199678dab8fa24a66138b236ea&",
+									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092866306736148/2026-10-06_205318.png?backend=b2&ex=6b067bfc&is=6b052a7c&hm=e44d30007715fbbb08f76512a9273b7189cbe406a008d30b99ca62e4657d86c0&",
 									"name": "2026-10-06_205318.png",
 									"content_type": "image/png",
 									"width": 1642,
 									"height": 958
 								},
 								{
-									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092867829407845/2026-10-06_204940.png?backend=b2&ex=6b05d33d&is=6b0481bd&hm=d486357e3a207f489c3ef4d49c6dd703a833dde766d5e773e68498e36a8f299e&",
+									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092867829407845/2026-10-06_204940.png?backend=b2&ex=6b067bfd&is=6b052a7d&hm=f31bb04e870d85ad097694795b3b4e2e27bcbf6bba155393d7c6d514b17555d4&",
 									"name": "2026-10-06_204940.png",
 									"content_type": "image/png",
 									"width": 1330,
 									"height": 938
 								},
 								{
-									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092869104214086/2026-10-06_204825.png?backend=b2&ex=6b05d33d&is=6b0481bd&hm=2d1bc27da2279cf9b6ceea3992623ac7f26662af89f24e50849b8ccf319a9b5d&",
+									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092869104214086/2026-10-06_204825.png?backend=b2&ex=6b067bfd&is=6b052a7d&hm=ba251d3a90884fb136c7f0e62ba950185cb742db78e3e003ad4edea11be6e6af&",
 									"name": "2026-10-06_204825.png",
 									"content_type": "image/png",
 									"width": 1495,
 									"height": 932
 								},
 								{
-									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092870161305700/2026-10-06_204845.png?backend=b2&ex=6b05d33d&is=6b0481bd&hm=fe8b29c6c81f25bcd9852cd76eefff31cc39fdee6af91c7474f73629d3859667&",
+									"url": "https://cdn.discordapp.com/attachments/1557092555483779113/1557092870161305700/2026-10-06_204845.png?backend=b2&ex=6b067bfd&is=6b052a7d&hm=d71550bca7e930cdb0204322193956c33e9bb29cd8973c8261c6f2d3093aa729&",
 									"name": "2026-10-06_204845.png",
 									"content_type": "image/png",
 									"width": 1357,
@@ -1106,7 +1114,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1555092677153005588/1555092677459054622/l_ET_GW034_7891_1_sfw_1.jpg?backend=b2&ex=6b05ccaa&is=6b047b2a&hm=623794b2431479b58bbd2d2ac0f20189cbce8a0f44f1f9d6d8df16f4f4e390f9&",
+								"url": "https://cdn.discordapp.com/attachments/1555092677153005588/1555092677459054622/l_ET_GW034_7891_1_sfw_1.jpg?backend=b2&ex=6b06756a&is=6b0523ea&hm=0d376b330e31bb6df1cd81d5169761550316ae53b4a67aa344c5733d30a4ec93&",
 								"name": "l_ET_GW034_7891_1_sfw_1.jpg",
 								"content_type": "image/jpeg",
 								"width": 1200,
@@ -1121,7 +1129,7 @@
 							"id": "1555095580445769871",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "старий бог здесь",
 							"timestamp": "2026-10-01T05:54:38.657000+00:00",
 							"edited_timestamp": null,
@@ -1133,7 +1141,7 @@
 							"id": "1555095897883287582",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "https://klipy.com/gifs/yuuri-hitting-chito-girls-last-tour",
 							"timestamp": "2026-10-01T05:55:54.340000+00:00",
 							"edited_timestamp": null,
@@ -1192,7 +1200,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1555092677153005588/1555180341231230996/ce12d93fc8369108aa2e0c45cb5b14e7.webp?backend=b2&ex=6b061e4f&is=6b04cccf&hm=7fd27b0db1f66b389d7b46b04b3b534b59ef4256a46d05c50db25475862b370a&",
+									"url": "https://cdn.discordapp.com/attachments/1555092677153005588/1555180341231230996/ce12d93fc8369108aa2e0c45cb5b14e7.webp?backend=b2&ex=6b06c70f&is=6b05758f&hm=23a4144a1d128ed559ddfe04e0b25c9799fd6935fbb2e25a12661085164795a6&",
 									"name": "ce12d93fc8369108aa2e0c45cb5b14e7.webp",
 									"content_type": "image/webp",
 									"width": 680,
@@ -1258,7 +1266,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1553468856259973120/1553469714678947980/image.png?ex=6b05d3ea&is=6b04826a&hm=a0f6a38f86307e7a4e7e9cda78190ed3a8295f908bf1d747f2af77375cc8b8f7&",
+									"url": "https://cdn.discordapp.com/attachments/1553468856259973120/1553469714678947980/image.png?ex=6b067caa&is=6b052b2a&hm=6a4fba17296eaaa49b212fe6c6f7ac877771dff93eb865ec81330dedab99609d&",
 									"name": "image.png",
 									"content_type": "image/webp",
 									"width": 417,
@@ -1430,7 +1438,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1553468856259973120/1554780468887687178/attachment.gif?backend=b2&ex=6b05fb66&is=6b04a9e6&hm=57ec983ac23d0e4c9135394198ca27d0f17df63dcdd53884fcd843dfde91cae9&",
+									"url": "https://cdn.discordapp.com/attachments/1553468856259973120/1554780468887687178/attachment.gif?backend=b2&ex=6b06a426&is=6b0552a6&hm=ca4f03f4b52fad86afb1c92bf23761145f7414b5762fe91e57f8ca4c7a02bf52&",
 									"name": "attachment.gif",
 									"content_type": "image/gif",
 									"width": 734,
@@ -1455,7 +1463,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1553468856259973120/1555527462178259034/9f6aafbb0e871c5b62f33d48318109e9.gif?backend=b2&ex=6b061017&is=6b04be97&hm=6853d3dfe424251e4844ed085abe443ae2c1ca36b2b734c2edd37a595a70bbd7&",
+									"url": "https://cdn.discordapp.com/attachments/1553468856259973120/1555527462178259034/9f6aafbb0e871c5b62f33d48318109e9.gif?backend=b2&ex=6b06b8d7&is=6b056757&hm=e1750d10f6f191b983488c92e4e9e55fdcaff0c0d115206a786929fdd9cf87f5&",
 									"name": "9f6aafbb0e871c5b62f33d48318109e9.gif",
 									"content_type": "image/gif",
 									"width": 720,
@@ -1851,7 +1859,7 @@
 							"id": "1550010642893901937",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "https://tenor.com/view/girls-last-tour-chito-water-drink-drinking-gif-16885446776639560316",
 							"timestamp": "2026-09-17T05:08:55.071000+00:00",
 							"edited_timestamp": null,
@@ -1921,7 +1929,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1545530126626856980/1545530127042220103/image.png?ex=6b05f298&is=6b04a118&hm=4b4d8575e3e177253ce8e47dabd2c4e13531732e7ed9db6e6639a0ba48552881&",
+								"url": "https://cdn.discordapp.com/attachments/1545530126626856980/1545530127042220103/image.png?ex=6b069b58&is=6b0549d8&hm=ba79aa866245603aed83d70ce938a9d43bd2fcbf042c4aeb67efbec1b328e6d5&",
 								"name": "image.png",
 								"content_type": "image/png",
 								"width": 1536,
@@ -1978,21 +1986,21 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1544788775899631687/1544788776755134514/c933b662-5f25-4e76-b416-3fa7cf8eba721.jpg?ex=6b05e329&is=6b0491a9&hm=53fa10e0e3ecf6caf902e1afb6077a7eb78a23487446b1513db809b76acd52b2&",
+								"url": "https://cdn.discordapp.com/attachments/1544788775899631687/1544788776755134514/c933b662-5f25-4e76-b416-3fa7cf8eba721.jpg?ex=6b068be9&is=6b053a69&hm=0ce6e111a1cc697f4a74e2f0952aae4d14924edfa865987f421a4a04e487c411&",
 								"name": "c933b662-5f25-4e76-b416-3fa7cf8eba721.jpg",
 								"content_type": "image/jpeg",
 								"width": 1536,
 								"height": 1024
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1544788775899631687/1544788777761906819/image.png?ex=6b05e329&is=6b0491a9&hm=604aef63971155baebf98cfa4c8b9361e23ca6fa3d356b658798b0474dfc4cf9&",
+								"url": "https://cdn.discordapp.com/attachments/1544788775899631687/1544788777761906819/image.png?ex=6b068be9&is=6b053a69&hm=6380806d4e4b14959794edbe5ba68a393b60c6c807ea72f4cb083b67b0a037d7&",
 								"name": "image.png",
 								"content_type": "image/png",
 								"width": 1203,
 								"height": 954
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1544788775899631687/1544788778302963752/7853FE99-33A4-4261-B51F-7CBFCB04C48F.png?ex=6b05e329&is=6b0491a9&hm=5ab199a21aeba3e5368b127b5cbb8979cd14ba5b91e6bbfce947c8792a8c60cb&",
+								"url": "https://cdn.discordapp.com/attachments/1544788775899631687/1544788778302963752/7853FE99-33A4-4261-B51F-7CBFCB04C48F.png?ex=6b068be9&is=6b053a69&hm=6dc02ce96f89364e3fbc7dd1fcc382a22cf0e7e311724af53bf9c451b8820fe3&",
 								"name": "7853FE99-33A4-4261-B51F-7CBFCB04C48F.png",
 								"content_type": "image/webp",
 								"width": 941,
@@ -2019,7 +2027,7 @@
 							"id": "1544982150049435668",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "https://tenor.com/view/girls-last-tour-chito-water-drink-drinking-gif-16885446776639560316",
 							"timestamp": "2026-09-03T08:07:28.952000+00:00",
 							"edited_timestamp": null,
@@ -2083,7 +2091,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1544788775899631687/1547165806742343700/image0.png?ex=6b05f731&is=6b04a5b1&hm=46b9fae9bc296648c354f349b8e204bd37397d10d9d94817779d65a6f35a5bf3&",
+									"url": "https://cdn.discordapp.com/attachments/1544788775899631687/1547165806742343700/image0.png?ex=6b069ff1&is=6b054e71&hm=da20e35a65181ffc5ae6500178a04977fcb8ae86a918ed49aab769fbf8863645&",
 									"name": "image0.png",
 									"content_type": "image/png",
 									"width": 388,
@@ -2143,14 +2151,14 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1542987058396663839/1542987058824347778/2026-08-28_223405.png?ex=6b05ecae&is=6b049b2e&hm=d6de8a8653184309f861a22b1a123cbe4adafc8b5c9000d1699bcf67ea6d793d&",
+								"url": "https://cdn.discordapp.com/attachments/1542987058396663839/1542987058824347778/2026-08-28_223405.png?ex=6b06956e&is=6b0543ee&hm=1d215f9637857177fa3a1c8977b9cbb676ab7578270cf668be46f426f688f7d6&",
 								"name": "2026-08-28_223405.png",
 								"content_type": "image/png",
 								"width": 1805,
 								"height": 930
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1542987058396663839/1542987059231334571/2026-08-28_224919.png?ex=6b05ecae&is=6b049b2e&hm=810b7879d84dde151fca658eafac151d8839378dc91ebd749fb31947437918ee&",
+								"url": "https://cdn.discordapp.com/attachments/1542987058396663839/1542987059231334571/2026-08-28_224919.png?ex=6b06956e&is=6b0543ee&hm=d2e46a26633f2eb0253083ffeb49c6a0d7ab7ff17f555e4c6b21e34788b4609c&",
 								"name": "2026-08-28_224919.png",
 								"content_type": "image/png",
 								"width": 1743,
@@ -2495,7 +2503,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1542282867701325924/1542282868175142992/photo_2026-08-26_18-19-56.jpg?ex=6b05ffda&is=6b04ae5a&hm=f790847cdb1c703169b2468c9d31dbaab70af8ae4bd3398f2806a048715d470a&",
+								"url": "https://cdn.discordapp.com/attachments/1542282867701325924/1542282868175142992/photo_2026-08-26_18-19-56.jpg?ex=6b06a89a&is=6b05571a&hm=4d026f7349972d84acfe17ffad050e61a07a3069ede95d04b656edef7776576b&",
 								"name": "photo_2026-08-26_18-19-56.jpg",
 								"content_type": "image/jpeg",
 								"width": 1026,
@@ -2611,7 +2619,7 @@
 							"id": "1542066593411104829",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "https://tenor.com/view/girls-last-tour-chito-water-drink-drinking-gif-16885446776639560316",
 							"timestamp": "2026-08-26T07:02:06.081000+00:00",
 							"edited_timestamp": null,
@@ -2677,7 +2685,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541895253815066694/1541895255413104690/content.png?ex=6b05e85b&is=6b0496db&hm=4be4c2573064bbab8ef22d9722afd9f0bc4c04fec6b844cab3369f012bd0eb04&",
+								"url": "https://cdn.discordapp.com/attachments/1541895253815066694/1541895255413104690/content.png?ex=6b06911b&is=6b053f9b&hm=6dd4f101eff2e05264ec2ebbd1c9bef9300b2cd5b94759a2bc7454549aa747c6&",
 								"name": "content.png",
 								"content_type": "image/png",
 								"width": 1024,
@@ -2752,7 +2760,7 @@
 							"id": "1542066888371085432",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "Німці так не знущались",
 							"timestamp": "2026-08-26T07:03:16.405000+00:00",
 							"edited_timestamp": null,
@@ -2948,7 +2956,7 @@
 							"id": "1543635978693124197",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "https://tenor.com/view/dota2-%D0%BC%D0%B0%D0%BC%D0%B0-mom-gif-26510307",
 							"mentions": {
 								"users": {
@@ -3053,14 +3061,14 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541886263399813171/1541886263852802169/c933b662-5f25-4e76-b416-3fa7cf8eba72_1.jpg?ex=6b05dffc&is=6b048e7c&hm=c97496a364f1a907b314ac03d12bea4544181c69ab913209099781154cecce9e&",
+								"url": "https://cdn.discordapp.com/attachments/1541886263399813171/1541886263852802169/c933b662-5f25-4e76-b416-3fa7cf8eba72_1.jpg?ex=6b0688bc&is=6b05373c&hm=3110df35bb218fde4fefbedf6f4ebb4afc38ecdef956e42cf5e64cbb0ce5de42&",
 								"name": "c933b662-5f25-4e76-b416-3fa7cf8eba72_1.jpg",
 								"content_type": "image/jpeg",
 								"width": 1536,
 								"height": 1024
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541886263399813171/1541886264549187674/2026-08-25_213437.jpg?ex=6b05dffc&is=6b048e7c&hm=ec93dda1336575265d8223fd9a6aee01c118fba97d703231cb509afefc852a3f&",
+								"url": "https://cdn.discordapp.com/attachments/1541886263399813171/1541886264549187674/2026-08-25_213437.jpg?ex=6b0688bc&is=6b05373c&hm=7e9b3560cc35efc166094a13945ec38f6492112d4deb2d83cabf3093e9991674&",
 								"name": "2026-08-25_213437.jpg",
 								"content_type": "image/jpeg",
 								"width": 1486,
@@ -3092,7 +3100,7 @@
 						"edited_timestamp": "2026-08-25T12:43:29.245000+00:00",
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541753874174451763/1541753874560454707/c933b662-5f25-4e76-b416-3fa7cf8eba72.png?ex=6b060d70&is=6b04bbf0&hm=03c0071a58975f2a85e46b5351b54ac3bfff002a32033d6a09a43787f595b09b&",
+								"url": "https://cdn.discordapp.com/attachments/1541753874174451763/1541753874560454707/c933b662-5f25-4e76-b416-3fa7cf8eba72.png?ex=6b06b630&is=6b0564b0&hm=7dca9342fd1822d836b3827572d9ed4d10bcfd9f2891a3d4640ee45d7fa8a6ae&",
 								"name": "c933b662-5f25-4e76-b416-3fa7cf8eba72.png",
 								"content_type": "image/png",
 								"width": 1536,
@@ -3345,7 +3353,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1541753874174451763/1541828374891331695/image.png?ex=6b0652d2&is=6b050152&hm=e1a9391f613227763414b6345b4c80bd75a058983e546232facab9a04de1a84d&",
+									"url": "https://cdn.discordapp.com/attachments/1541753874174451763/1541828374891331695/image.png?ex=6b06fb92&is=6b05aa12&hm=29a9c8064d73a926e41bc747bf50623593039c725be28a9597717d9953059eb6&",
 									"name": "image.png",
 									"content_type": "image/webp",
 									"width": 315,
@@ -3427,28 +3435,28 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110288424894544/2026-08-17_185353.png?ex=6b06590d&is=6b05078d&hm=3d4b9f3a6902542a675ee0dd700ae6af4e7f04611fbbda09079b6d9fa4fc6aa4&",
+								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110288424894544/2026-08-17_185353.png?ex=6b0701cd&is=6b05b04d&hm=b340a9e6fbcccc785965d05553a5804eceb388a757f5142e18a9b07499b7138c&",
 								"name": "2026-08-17_185353.png",
 								"content_type": "image/png",
 								"width": 398,
 								"height": 617
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110288919830628/2026-08-17_171144.png?ex=6b06590d&is=6b05078d&hm=0c173bdde7a5476b9502e4fae110c270376225b613f232100eaf3b52f038ad66&",
+								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110288919830628/2026-08-17_171144.png?ex=6b0701cd&is=6b05b04d&hm=9be529ac239b23b718f7f68705c70f333cfa27ba76c6a97f9da36fc4a6343e99&",
 								"name": "2026-08-17_171144.png",
 								"content_type": "image/png",
 								"width": 1305,
 								"height": 747
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110289393524818/2026-08-17_171024.png?ex=6b06590d&is=6b05078d&hm=7d100a7125b413c504593d4085881d407470c96a094af812801912b20eeee72a&",
+								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110289393524818/2026-08-17_171024.png?ex=6b0701cd&is=6b05b04d&hm=301320827bc6552957e62f2a3c59faacb026c68dc813a88439096035a4898d76&",
 								"name": "2026-08-17_171024.png",
 								"content_type": "image/png",
 								"width": 1194,
 								"height": 599
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110289758556250/2026-08-17_173353.png?ex=6b06590d&is=6b05078d&hm=50c9125b2d54c1f663ff99d847b92bd251f81638d627830467ea2b54b599d950&",
+								"url": "https://cdn.discordapp.com/attachments/1541110288118448258/1541110289758556250/2026-08-17_173353.png?ex=6b0701cd&is=6b05b04d&hm=484c89c3746f5320d2f666ae15ef8a5b20c06e8f025abae7d523fed07c037d39&",
 								"name": "2026-08-17_173353.png",
 								"content_type": "image/webp",
 								"width": 1242,
@@ -3463,7 +3471,7 @@
 							"id": "1541125536921952336",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "https://tenor.com/view/%D1%81%D0%B1%D1%83-%D0%BF%D0%BE%D0%BB%D1%96%D1%86%D1%96%D1%8F-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0-%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D0%B9%D1%82%D0%B5-%D0%B4%D0%B2%D0%B5%D1%80%D1%96-%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%BF%D0%BE%D0%BB%D1%96%D1%86%D1%96%D1%8F-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8-gif-1311446477758237857",
 							"mentions": {
 								"users": {
@@ -3497,7 +3505,7 @@
 									"title": null,
 									"description": null,
 									"url": "https://cdn.discordapp.com/attachments/1499142718407053486/1529244227383332864/togif.gif",
-									"image": "https://cdn.discordapp.com/attachments/1499142718407053486/1529244227383332864/togif.gif?ex=6b0606ab&is=6b04b52b&hm=9802a3a71e7a7873beeb635267ba1f19d601c5548534d570e8745aa755e9a3e7&"
+									"image": "https://cdn.discordapp.com/attachments/1499142718407053486/1529244227383332864/togif.gif?ex=6b06af6b&is=6b055deb&hm=2d4548357c9bc729d8bab0ececf329e79b803806ab282c93e390e3b6d4a46cbf&"
 								}
 							],
 							"url": "https://discord.com/channels/1114276509146959982/1541110288118448258/1541125698058461325"
@@ -3506,7 +3514,7 @@
 							"id": "1541125829235445800",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "в бнз валюті можу дати, де використовувати сам знайдешь",
 							"mentions": {
 								"users": {
@@ -3693,7 +3701,7 @@
 							"id": "1541141141272002690",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "https://tenor.com/view/girls-last-tour-chito-water-drink-drinking-gif-16885446776639560316",
 							"timestamp": "2026-08-23T17:44:41.097000+00:00",
 							"edited_timestamp": null,
@@ -3834,14 +3842,14 @@
 						"edited_timestamp": "2026-08-23T12:06:56.623000+00:00",
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055872933957713/c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg?ex=6b06265f&is=6b04d4df&hm=4f91fdabc339a134886a379173e226fae85551dd82ea9bf852144634c0aa96a5&",
+								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055872933957713/c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg?ex=6b06cf1f&is=6b057d9f&hm=70a588e806111d0f42d18b34507b3763b189adbcc66f6e34004dc00d9435a25b&",
 								"name": "c933b662-5f25-4e76-b416-3fa7cf8eba72.jpg",
 								"content_type": "image/jpeg",
 								"width": 1536,
 								"height": 1024
 							},
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055873785536614/2026-08-23_145122.jpg?ex=6b06265f&is=6b04d4df&hm=9ee68a7134658846cbb18b46bbf76f6dfaacdd481854c708f36f1cab69bf06ab&",
+								"url": "https://cdn.discordapp.com/attachments/1541055872510337156/1541055873785536614/2026-08-23_145122.jpg?ex=6b06cf1f&is=6b057d9f&hm=0d65f3101e3a1252f569fb9b42bb23047adaed1c13f4b900afb77ae3b1efcf9a&",
 								"name": "2026-08-23_145122.jpg",
 								"content_type": "image/jpeg",
 								"width": 1920,
@@ -3890,7 +3898,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1541035491590144000/1541035491770630144/image.png?ex=6b061364&is=6b04c1e4&hm=7f94d40ce446bfe79a0f80a81fec6749013bfd9689b5cf47c6cb8587edf889e7&",
+								"url": "https://cdn.discordapp.com/attachments/1541035491590144000/1541035491770630144/image.png?ex=6b06bc24&is=6b056aa4&hm=dc27d4e0fd5cbee62127e1b0bb64c7a7bb026d885c65180b61c438a5dcea2c19&",
 								"name": "image.png",
 								"content_type": "image/webp",
 								"width": 1001,
@@ -3917,7 +3925,7 @@
 							"id": "1541066391157739650",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "https://tenor.com/view/girls-last-tour-chito-water-drink-drinking-gif-16885446776639560316",
 							"timestamp": "2026-08-23T12:47:39.281000+00:00",
 							"edited_timestamp": null,
@@ -3965,7 +3973,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540811047773020242/1540811049102606346/2026-08-22_202633.png?ex=6b05eb1c&is=6b04999c&hm=914518e5bf336b7d759965a3d6fe20837e4c4605f4a6c71251d5744273458339&",
+								"url": "https://cdn.discordapp.com/attachments/1540811047773020242/1540811049102606346/2026-08-22_202633.png?ex=6b0693dc&is=6b05425c&hm=785ef2ac7e22c713f5605566e4301b5ae4f668a73b8d9fe7b0f6cfae3919fc5a&",
 								"name": "2026-08-22_202633.png",
 								"content_type": "image/png",
 								"width": 1510,
@@ -4045,7 +4053,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540804175997304912/1540804176517533837/content.png?ex=6b05e4b6&is=6b049336&hm=b7eeb1f8c5919ec31dde49f8fea5969cc2bb58ceb39f1b22646017f0a34f5b47&",
+								"url": "https://cdn.discordapp.com/attachments/1540804175997304912/1540804176517533837/content.png?ex=6b068d76&is=6b053bf6&hm=54793e6934367db5d59e42fae6a810f1706e0f25c0cfcdf9569e8e434ab33438&",
 								"name": "content.png",
 								"content_type": "image/png",
 								"width": 1024,
@@ -4099,7 +4107,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540785910092922920/1540785910306574356/2026-08-22_210314.png?ex=6b05d3b3&is=6b048233&hm=4672c8e365bfee5018a760611aafe32ff4fed06546ad6b71d63ffa4942390712&",
+								"url": "https://cdn.discordapp.com/attachments/1540785910092922920/1540785910306574356/2026-08-22_210314.png?ex=6b067c73&is=6b052af3&hm=1fd8e6af93ebfedaa6a4c48bf02c8583a2eed92c0b14f875e7773d3eebdaad6d&",
 								"name": "2026-08-22_210314.png",
 								"content_type": "image/png",
 								"width": 1469,
@@ -4114,7 +4122,7 @@
 							"id": "1540797305878351935",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "продам дрова",
 							"mentions": {
 								"users": {
@@ -4137,7 +4145,7 @@
 							"edited_timestamp": null,
 							"attachments": [
 								{
-									"url": "https://cdn.discordapp.com/attachments/1540785910092922920/1541142343376314558/image.png?ex=6b05ce27&is=6b047ca7&hm=30162d484d510fd36dfa9ba1be65a087340c3f314550b0f56914ef80d9cd244b&",
+									"url": "https://cdn.discordapp.com/attachments/1540785910092922920/1541142343376314558/image.png?ex=6b0676e7&is=6b052567&hm=970915da80a1d8b2edbbec2d20b25cd070e33f0098307befc2081129ff983dd9&",
 									"name": "image.png",
 									"content_type": "image/png",
 									"width": 1633,
@@ -4168,7 +4176,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540698938355617893/1540698939010056285/2026-08-22_152000.png?ex=6b062b73&is=6b04d9f3&hm=7dd96420fdd3a3667dd057b6eb369e980bc34d3ace9ee1abfd3bc591d3dfec2e&",
+								"url": "https://cdn.discordapp.com/attachments/1540698938355617893/1540698939010056285/2026-08-22_152000.png?ex=6b06d433&is=6b0582b3&hm=ab2d286034df30ec8af54ecf71784d6532d49a3d239692d533decb88b25459b4&",
 								"name": "2026-08-22_152000.png",
 								"content_type": "image/png",
 								"width": 1096,
@@ -4228,7 +4236,7 @@
 							"id": "1540413835402285076",
 							"author": "kirito3",
 							"author_color": "#ffe1a4",
-							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/3d0c0c9318b603593ed4b3e98e2ec063.png?size=64",
+							"avatar": "https://cdn.discordapp.com/avatars/801055271408369676/e133bf268cf072d4267432d01cc05dc5.png?size=64",
 							"content": "https://tenor.com/view/girls-last-tour-chito-water-drink-drinking-gif-16885446776639560316",
 							"timestamp": "2026-08-21T17:34:37.865000+00:00",
 							"edited_timestamp": null,
@@ -4257,7 +4265,7 @@
 									"title": null,
 									"description": null,
 									"url": "https://cdn.discordapp.com/attachments/1464224177572810916/1540466996095754250/1000015211-1.gif",
-									"image": "https://cdn.discordapp.com/attachments/1464224177572810916/1540466996095754250/1000015211-1.gif?ex=6b05fc30&is=6b04aab0&hm=46a3c06149c01b9c0ad8ac2406e85f3996568911e55718351e70b27a927b6596&"
+									"image": "https://cdn.discordapp.com/attachments/1464224177572810916/1540466996095754250/1000015211-1.gif?ex=6b06a4f0&is=6b055370&hm=a847616e123ab41a59d70c0df2a5d25abd94b8a56e10cd25dbea4e9616b9a4ee&"
 								}
 							],
 							"url": "https://discord.com/channels/1114276509146959982/1540411403633033317/1540467678144110652"
@@ -4283,7 +4291,7 @@
 						"edited_timestamp": null,
 						"attachments": [
 							{
-								"url": "https://cdn.discordapp.com/attachments/1540374701669359717/1540374702105559040/image.png?ex=6b064efb&is=6b04fd7b&hm=e4145d7b3ba2a348f188d087e9f391d17114d187a0b4caf5c0855bfba2f68c20&",
+								"url": "https://cdn.discordapp.com/attachments/1540374701669359717/1540374702105559040/image.png?ex=6b06f7bb&is=6b05a63b&hm=615fc950fa87be74052c26f60cc33b6f6bcf126f1bf0d0fb4d53f75b394eeb35&",
 								"name": "image.png",
 								"content_type": "image/png",
 								"width": 1113,
